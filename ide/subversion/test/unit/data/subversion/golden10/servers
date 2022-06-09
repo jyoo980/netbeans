@@ -1,3 +1,0 @@
-[global]
-http-timeout = 60
-neon-debug-mask = 130

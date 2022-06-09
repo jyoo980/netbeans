@@ -1,7 +1,0 @@
-.linear-gradient-multi(...) {}
-
-.linear-gradient-multi( ...) {}
-
-.linear-gradient-multi(... ) {}
-
-.linear-gradient-multi( ... ) {}

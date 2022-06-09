@@ -7,21 +7,21 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="test10" />
-    <orderEntry type="module" module-name="openide.filesystems.compat8" />
-    <orderEntry type="module" module-name="jellytools.platform" />
-    <orderEntry type="module" module-name="jellytools.ide" />
-    <orderEntry type="module" module-name="test113" />
-    <orderEntry type="module" module-name="qa-functional7" />
-    <orderEntry type="module" module-name="openide.filesystems.nb" />
-    <orderEntry type="module" module-name="openide.loaders" />
-    <orderEntry type="module" module-name="openide.actions" />
-    <orderEntry type="module" module-name="test1" />
-    <orderEntry type="module" module-name="test80" />
-    <orderEntry type="module" module-name="nbjunit" />
+    <orderEntry type="module" module-name="qa-functional3" />
+    <orderEntry type="module" module-name="test4" />
+    <orderEntry type="module" module-name="test23" />
+    <orderEntry type="module" module-name="test73" />
+    <orderEntry type="module" module-name="test15" />
+    <orderEntry type="module" module-name="test27" />
     <orderEntry type="module" module-name="openide.filesystems" />
-    <orderEntry type="module" module-name="qa-functional10" />
-    <orderEntry type="module" module-name="test78" />
-    <orderEntry type="module" module-name="test100" />
+    <orderEntry type="module" module-name="jellytools.ide" />
+    <orderEntry type="module" module-name="openide.filesystems.compat8" />
+    <orderEntry type="module" module-name="openide.filesystems.nb" />
+    <orderEntry type="module" module-name="jellytools.platform" />
+    <orderEntry type="module" module-name="qa-functional" />
+    <orderEntry type="module" module-name="nbjunit" />
+    <orderEntry type="module" module-name="openide.actions" />
+    <orderEntry type="module" module-name="test55" />
+    <orderEntry type="module" module-name="openide.loaders" />
   </component>
 </module>

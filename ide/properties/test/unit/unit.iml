@@ -7,22 +7,22 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="openide.filesystems.compat8" />
-    <orderEntry type="module" module-name="test21" />
-    <orderEntry type="module" module-name="openide.util.ui" />
-    <orderEntry type="module" module-name="test113" />
-    <orderEntry type="module" module-name="test49" />
     <orderEntry type="module" module-name="openide.util" />
-    <orderEntry type="module" module-name="openide.filesystems.nb" />
-    <orderEntry type="module" module-name="openide.compat" />
-    <orderEntry type="module" module-name="openide.loaders" />
-    <orderEntry type="module" module-name="test117" />
-    <orderEntry type="module" module-name="test1" />
-    <orderEntry type="module" module-name="test80" />
-    <orderEntry type="module" module-name="nbjunit" />
-    <orderEntry type="module" module-name="openide.filesystems" />
-    <orderEntry type="module" module-name="test78" />
     <orderEntry type="module" module-name="openide.util.lookup" />
-    <orderEntry type="module" module-name="test100" />
+    <orderEntry type="module" module-name="test4" />
+    <orderEntry type="module" module-name="test23" />
+    <orderEntry type="module" module-name="test81" />
+    <orderEntry type="module" module-name="test73" />
+    <orderEntry type="module" module-name="test27" />
+    <orderEntry type="module" module-name="openide.filesystems" />
+    <orderEntry type="module" module-name="openide.filesystems.compat8" />
+    <orderEntry type="module" module-name="test31" />
+    <orderEntry type="module" module-name="openide.filesystems.nb" />
+    <orderEntry type="module" module-name="nbjunit" />
+    <orderEntry type="module" module-name="openide.util.ui" />
+    <orderEntry type="module" module-name="test84" />
+    <orderEntry type="module" module-name="openide.compat" />
+    <orderEntry type="module" module-name="test55" />
+    <orderEntry type="module" module-name="openide.loaders" />
   </component>
 </module>

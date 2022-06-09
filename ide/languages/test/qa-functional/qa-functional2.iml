@@ -7,39 +7,39 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="test10" />
-    <orderEntry type="module" module-name="test35" />
-    <orderEntry type="module" module-name="jellytools.platform" />
-    <orderEntry type="module" module-name="test21" />
-    <orderEntry type="module" module-name="openide.util.ui" />
-    <orderEntry type="module" module-name="jellytools.ide" />
-    <orderEntry type="module" module-name="test113" />
     <orderEntry type="module" module-name="openide.util" />
-    <orderEntry type="module" module-name="test48" />
-    <orderEntry type="module" module-name="qa-functional7" />
-    <orderEntry type="module" module-name="openide.filesystems.nb" />
-    <orderEntry type="module" module-name="unit16" />
-    <orderEntry type="module" module-name="languages" />
-    <orderEntry type="module" module-name="editor.lib" />
-    <orderEntry type="module" module-name="openide.filesystems" />
-    <orderEntry type="module" module-name="qa-functional10" />
-    <orderEntry type="module" module-name="test78" />
     <orderEntry type="module" module-name="openide.util.lookup" />
-    <orderEntry type="module" module-name="openide.filesystems.compat8" />
-    <orderEntry type="module" module-name="unit18" />
-    <orderEntry type="module" module-name="openide.text" />
-    <orderEntry type="module" module-name="test49" />
+    <orderEntry type="module" module-name="unit15" />
+    <orderEntry type="module" module-name="test100" />
+    <orderEntry type="module" module-name="openide.filesystems.nb" />
+    <orderEntry type="module" module-name="test42" />
+    <orderEntry type="module" module-name="test31" />
+    <orderEntry type="module" module-name="openide.actions" />
+    <orderEntry type="module" module-name="test68" />
+    <orderEntry type="module" module-name="openide.util.ui" />
+    <orderEntry type="module" module-name="qa-functional8" />
+    <orderEntry type="module" module-name="languages" />
     <orderEntry type="module" module-name="editor.deprecated.pre65formatting" />
+    <orderEntry type="module" module-name="test9" />
+    <orderEntry type="module" module-name="openide.filesystems" />
+    <orderEntry type="module" module-name="openide.loaders" />
+    <orderEntry type="module" module-name="test41" />
+    <orderEntry type="module" module-name="qa-functional6" />
+    <orderEntry type="module" module-name="jellytools.platform" />
+    <orderEntry type="module" module-name="openide.filesystems.compat8" />
+    <orderEntry type="module" module-name="test102" />
+    <orderEntry type="module" module-name="test17" />
     <orderEntry type="module" module-name="openide.compat" />
     <orderEntry type="module" module-name="lexer" />
-    <orderEntry type="module" module-name="openide.loaders" />
-    <orderEntry type="module" module-name="openide.actions" />
-    <orderEntry type="module" module-name="test117" />
-    <orderEntry type="module" module-name="test1" />
-    <orderEntry type="module" module-name="test80" />
     <orderEntry type="module" module-name="nbjunit" />
-    <orderEntry type="module" module-name="test7" />
+    <orderEntry type="module" module-name="test70" />
+    <orderEntry type="module" module-name="jellytools.ide" />
     <orderEntry type="module" module-name="openide.nodes" />
-    <orderEntry type="module" module-name="test100" />
+    <orderEntry type="module" module-name="test7" />
+    <orderEntry type="module" module-name="editor.lib" />
+    <orderEntry type="module" module-name="test1" />
+    <orderEntry type="module" module-name="unit14" />
+    <orderEntry type="module" module-name="openide.text" />
+    <orderEntry type="module" module-name="test87" />
   </component>
 </module>

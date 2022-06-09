@@ -7,10 +7,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="editor.indent" />
+    <orderEntry type="module" module-name="test67" />
     <orderEntry type="module" module-name="editor.util" />
-    <orderEntry type="module" module-name="test109" />
-    <orderEntry type="module" module-name="test102" />
+    <orderEntry type="module" module-name="test57" />
     <orderEntry type="module" module-name="editor.lib2" />
+    <orderEntry type="module" module-name="editor.indent" />
   </component>
 </module>

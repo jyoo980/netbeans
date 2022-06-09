@@ -7,14 +7,14 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="test117" />
-    <orderEntry type="module" module-name="test21" />
-    <orderEntry type="module" module-name="engine1" />
-    <orderEntry type="module" module-name="openide.util.ui" />
-    <orderEntry type="module" module-name="test49" />
-    <orderEntry type="module" module-name="engine2" />
     <orderEntry type="module" module-name="openide.util" />
-    <orderEntry type="module" module-name="openide.compat" />
     <orderEntry type="module" module-name="openide.util.lookup" />
+    <orderEntry type="module" module-name="test31" />
+    <orderEntry type="module" module-name="test81" />
+    <orderEntry type="module" module-name="engine" />
+    <orderEntry type="module" module-name="openide.util.ui" />
+    <orderEntry type="module" module-name="test84" />
+    <orderEntry type="module" module-name="openide.compat" />
+    <orderEntry type="module" module-name="engine2" />
   </component>
 </module>

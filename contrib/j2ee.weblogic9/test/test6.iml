@@ -7,17 +7,17 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="test68" />
+    <orderEntry type="module" module-name="project.libraries.ui" />
+    <orderEntry type="module" module-name="test25" />
     <orderEntry type="module" module-name="openide.filesystems.compat8" />
     <orderEntry type="module" module-name="test1" />
-    <orderEntry type="module" module-name="test29" />
-    <orderEntry type="module" module-name="project.libraries" />
-    <orderEntry type="module" module-name="test90" />
-    <orderEntry type="module" module-name="project.libraries.ui" />
-    <orderEntry type="module" module-name="test80" />
-    <orderEntry type="module" module-name="nbjunit" />
-    <orderEntry type="module" module-name="test113" />
-    <orderEntry type="module" module-name="openide.filesystems" />
+    <orderEntry type="module" module-name="test100" />
     <orderEntry type="module" module-name="openide.filesystems.nb" />
-    <orderEntry type="module" module-name="test78" />
+    <orderEntry type="module" module-name="nbjunit" />
+    <orderEntry type="module" module-name="test70" />
+    <orderEntry type="module" module-name="project.libraries" />
+    <orderEntry type="module" module-name="test79" />
+    <orderEntry type="module" module-name="openide.filesystems" />
   </component>
 </module>

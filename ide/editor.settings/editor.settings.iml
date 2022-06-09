@@ -7,7 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="test29" />
     <orderEntry type="module" module-name="openide.modules" />
-    <orderEntry type="module" module-name="test20" />
   </component>
 </module>

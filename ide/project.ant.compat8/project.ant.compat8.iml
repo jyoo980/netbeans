@@ -7,18 +7,18 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="openide.modules" />
-    <orderEntry type="module" module-name="test21" />
-    <orderEntry type="module" module-name="test29" />
-    <orderEntry type="module" module-name="openide.util.ui" />
-    <orderEntry type="module" module-name="test49" />
     <orderEntry type="module" module-name="openide.util" />
-    <orderEntry type="module" module-name="test20" />
-    <orderEntry type="module" module-name="openide.compat" />
-    <orderEntry type="module" module-name="test117" />
-    <orderEntry type="module" module-name="project.libraries" />
-    <orderEntry type="module" module-name="test90" />
-    <orderEntry type="module" module-name="project.libraries.ui" />
     <orderEntry type="module" module-name="openide.util.lookup" />
+    <orderEntry type="module" module-name="project.libraries.ui" />
+    <orderEntry type="module" module-name="test81" />
+    <orderEntry type="module" module-name="test29" />
+    <orderEntry type="module" module-name="project.libraries" />
+    <orderEntry type="module" module-name="test47" />
+    <orderEntry type="module" module-name="test31" />
+    <orderEntry type="module" module-name="test40" />
+    <orderEntry type="module" module-name="openide.util.ui" />
+    <orderEntry type="module" module-name="test84" />
+    <orderEntry type="module" module-name="openide.compat" />
+    <orderEntry type="module" module-name="openide.modules" />
   </component>
 </module>

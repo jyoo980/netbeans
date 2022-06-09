@@ -8,12 +8,11 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="test8" />
-    <orderEntry type="module" module-name="unit18" />
+    <orderEntry type="module" module-name="unit5" />
     <orderEntry type="module" module-name="editor.lib" />
     <orderEntry type="module" module-name="editor.plain.lib" />
+    <orderEntry type="module" module-name="test10" />
     <orderEntry type="module" module-name="editor.deprecated.pre65formatting" />
-    <orderEntry type="module" module-name="test7" />
     <orderEntry type="module" module-name="properties.syntax" />
   </component>
 </module>

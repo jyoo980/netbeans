@@ -7,26 +7,24 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="perf" />
-    <orderEntry type="module" module-name="test177" />
-    <orderEntry type="module" module-name="test79" />
-    <orderEntry type="module" module-name="test3" />
-    <orderEntry type="module" module-name="projectapi" />
-    <orderEntry type="module" module-name="openide.compat" />
-    <orderEntry type="module" module-name="test35" />
     <orderEntry type="module" module-name="openide.util" />
-    <orderEntry type="module" module-name="test39" />
-    <orderEntry type="module" module-name="openide.filesystems" />
-    <orderEntry type="module" module-name="test181" />
-    <orderEntry type="module" module-name="openide.filesystems.compat8" />
-    <orderEntry type="module" module-name="projectapi.nb" />
-    <orderEntry type="module" module-name="openide.filesystems.nb" />
-    <orderEntry type="module" module-name="test127" />
-    <orderEntry type="module" module-name="nbjunit" />
-    <orderEntry type="module" module-name="test130" />
     <orderEntry type="module" module-name="openide.util.lookup" />
-    <orderEntry type="module" module-name="o.n.swing.tabcontrol" />
-    <orderEntry type="module" module-name="test178" />
+    <orderEntry type="module" module-name="projectapi" />
+    <orderEntry type="module" module-name="test4" />
+    <orderEntry type="module" module-name="test74" />
+    <orderEntry type="module" module-name="test23" />
+    <orderEntry type="module" module-name="test81" />
+    <orderEntry type="module" module-name="test73" />
+    <orderEntry type="module" module-name="test27" />
+    <orderEntry type="module" module-name="projectapi.nb" />
+    <orderEntry type="module" module-name="openide.filesystems" />
+    <orderEntry type="module" module-name="openide.filesystems.compat8" />
+    <orderEntry type="module" module-name="test31" />
+    <orderEntry type="module" module-name="openide.filesystems.nb" />
+    <orderEntry type="module" module-name="nbjunit" />
+    <orderEntry type="module" module-name="test35" />
     <orderEntry type="module" module-name="openide.util.ui" />
+    <orderEntry type="module" module-name="test84" />
+    <orderEntry type="module" module-name="openide.compat" />
   </component>
 </module>

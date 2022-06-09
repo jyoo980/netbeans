@@ -7,21 +7,21 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="test35" />
-    <orderEntry type="module" module-name="test21" />
-    <orderEntry type="module" module-name="openide.util.ui" />
-    <orderEntry type="module" module-name="test49" />
     <orderEntry type="module" module-name="openide.util" />
-    <orderEntry type="module" module-name="openide.dialogs" />
-    <orderEntry type="module" module-name="test23" />
-    <orderEntry type="module" module-name="openide.compat" />
-    <orderEntry type="module" module-name="unit10" />
-    <orderEntry type="module" module-name="openide.loaders" />
-    <orderEntry type="module" module-name="test117" />
-    <orderEntry type="module" module-name="openide.awt" />
-    <orderEntry type="module" module-name="test64" />
-    <orderEntry type="module" module-name="openide.nodes" />
     <orderEntry type="module" module-name="openide.util.lookup" />
-    <orderEntry type="module" module-name="test100" />
+    <orderEntry type="module" module-name="openide.awt" />
+    <orderEntry type="module" module-name="test81" />
+    <orderEntry type="module" module-name="unit10" />
+    <orderEntry type="module" module-name="test60" />
+    <orderEntry type="module" module-name="openide.nodes" />
+    <orderEntry type="module" module-name="test31" />
+    <orderEntry type="module" module-name="test" />
+    <orderEntry type="module" module-name="openide.dialogs" />
+    <orderEntry type="module" module-name="test35" />
+    <orderEntry type="module" module-name="openide.util.ui" />
+    <orderEntry type="module" module-name="test84" />
+    <orderEntry type="module" module-name="openide.compat" />
+    <orderEntry type="module" module-name="test55" />
+    <orderEntry type="module" module-name="openide.loaders" />
   </component>
 </module>

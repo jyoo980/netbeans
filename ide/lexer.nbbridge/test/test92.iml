@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/unit/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="openide.util" />
+    <orderEntry type="module" module-name="openide.util.lookup" />
+    <orderEntry type="module" module-name="test100" />
+    <orderEntry type="module" module-name="test102" />
+    <orderEntry type="module" module-name="test17" />
+    <orderEntry type="module" module-name="test42" />
+    <orderEntry type="module" module-name="openide.compat" />
+    <orderEntry type="module" module-name="lexer" />
+    <orderEntry type="module" module-name="nbjunit" />
+    <orderEntry type="module" module-name="test16" />
+    <orderEntry type="module" module-name="openide.util.ui" />
+    <orderEntry type="module" module-name="openide.modules" />
+    <orderEntry type="module" module-name="test41" />
+  </component>
+</module>

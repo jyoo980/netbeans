@@ -41,10 +41,6 @@
       <module fileurl="file://$PROJECT_DIR$/ide/spi.debugger.ui/test/apps/apps.iml" filepath="$PROJECT_DIR$/ide/spi.debugger.ui/test/apps/apps.iml" />
       <module fileurl="file://$PROJECT_DIR$/nb/autoupdate.pluginimporter/autoupdate.pluginimporter.iml" filepath="$PROJECT_DIR$/nb/autoupdate.pluginimporter/autoupdate.pluginimporter.iml" />
       <module fileurl="file://$PROJECT_DIR$/nbi/infra/utils/basic-style-checker/basic-style-checker.iml" filepath="$PROJECT_DIR$/nbi/infra/utils/basic-style-checker/basic-style-checker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/bugtracking/bugtracking.iml" filepath="$PROJECT_DIR$/ide/bugtracking/bugtracking.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/bugtracking.bridge/bugtracking.bridge.iml" filepath="$PROJECT_DIR$/ide/bugtracking.bridge/bugtracking.bridge.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/bugtracking.commons/bugtracking.commons.iml" filepath="$PROJECT_DIR$/ide/bugtracking.commons/bugtracking.commons.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/bugzilla/bugzilla.iml" filepath="$PROJECT_DIR$/ide/bugzilla/bugzilla.iml" />
       <module fileurl="file://$PROJECT_DIR$/nb/bugzilla.exceptionreporter/bugzilla.exceptionreporter.iml" filepath="$PROJECT_DIR$/nb/bugzilla.exceptionreporter/bugzilla.exceptionreporter.iml" />
       <module fileurl="file://$PROJECT_DIR$/nbi/infra/build/build.iml" filepath="$PROJECT_DIR$/nbi/infra/build/build.iml" />
       <module fileurl="file://$PROJECT_DIR$/nbbuild/installer/infra/build/build1.iml" filepath="$PROJECT_DIR$/nbbuild/installer/infra/build/build1.iml" />
@@ -60,28 +56,13 @@
       <module fileurl="file://$PROJECT_DIR$/ide/editor/test/qa-functional/data/cp-prj-1/cp-prj-1.iml" filepath="$PROJECT_DIR$/ide/editor/test/qa-functional/data/cp-prj-1/cp-prj-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/csl.api/csl.api.iml" filepath="$PROJECT_DIR$/ide/csl.api/csl.api.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/csl.types/csl.types.iml" filepath="$PROJECT_DIR$/ide/csl.types/csl.types.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/css.editor/css.editor.iml" filepath="$PROJECT_DIR$/ide/css.editor/css.editor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/css.lib/css.lib.iml" filepath="$PROJECT_DIR$/ide/css.lib/css.lib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/css.model/css.model.iml" filepath="$PROJECT_DIR$/ide/css.model/css.model.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/css.prep/css.prep.iml" filepath="$PROJECT_DIR$/ide/css.prep/css.prep.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/css.visual/css.visual.iml" filepath="$PROJECT_DIR$/ide/css.visual/css.visual.iml" />
       <module fileurl="file://$PROJECT_DIR$/harness/jellytools.platform/test/qa-functional/data/data.iml" filepath="$PROJECT_DIR$/harness/jellytools.platform/test/qa-functional/data/data.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/localhistory/test/qa-functional/data/data1.iml" filepath="$PROJECT_DIR$/ide/localhistory/test/qa-functional/data/data1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/ide.kit/test/qa-functional/data/data2.iml" filepath="$PROJECT_DIR$/ide/ide.kit/test/qa-functional/data/data2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/editor.bookmarks/test/qa-functional/data/data3.iml" filepath="$PROJECT_DIR$/ide/editor.bookmarks/test/qa-functional/data/data3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/libs.freemarker/test/unit/data/data4.iml" filepath="$PROJECT_DIR$/ide/libs.freemarker/test/unit/data/data4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/diff/test/unit/data/data5.iml" filepath="$PROJECT_DIR$/ide/diff/test/unit/data/data5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/o.openidex.util/test/unit/data/data6.iml" filepath="$PROJECT_DIR$/ide/o.openidex.util/test/unit/data/data6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/extide/o.apache.tools.ant.module/test/unit/data/data7.iml" filepath="$PROJECT_DIR$/extide/o.apache.tools.ant.module/test/unit/data/data7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/jellytools.ide/test/qa-functional/data/data8.iml" filepath="$PROJECT_DIR$/ide/jellytools.ide/test/qa-functional/data/data8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/db/db.iml" filepath="$PROJECT_DIR$/ide/db/db.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/db.core/db.core.iml" filepath="$PROJECT_DIR$/ide/db.core/db.core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/db.dataview/db.dataview.iml" filepath="$PROJECT_DIR$/ide/db.dataview/db.dataview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/db.metadata.model/db.metadata.model.iml" filepath="$PROJECT_DIR$/ide/db.metadata.model/db.metadata.model.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/db.mysql/db.mysql.iml" filepath="$PROJECT_DIR$/ide/db.mysql/db.mysql.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/db.sql.editor/db.sql.editor.iml" filepath="$PROJECT_DIR$/ide/db.sql.editor/db.sql.editor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/db.sql.visualeditor/db.sql.visualeditor.iml" filepath="$PROJECT_DIR$/ide/db.sql.visualeditor/db.sql.visualeditor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/dbapi/dbapi.iml" filepath="$PROJECT_DIR$/ide/dbapi/dbapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/editor.bookmarks/test/qa-functional/data/data1.iml" filepath="$PROJECT_DIR$/ide/editor.bookmarks/test/qa-functional/data/data1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/libs.freemarker/test/unit/data/data2.iml" filepath="$PROJECT_DIR$/ide/libs.freemarker/test/unit/data/data2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/localhistory/test/qa-functional/data/data3.iml" filepath="$PROJECT_DIR$/ide/localhistory/test/qa-functional/data/data3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/diff/test/unit/data/data4.iml" filepath="$PROJECT_DIR$/ide/diff/test/unit/data/data4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/jellytools.ide/test/qa-functional/data/data5.iml" filepath="$PROJECT_DIR$/ide/jellytools.ide/test/qa-functional/data/data5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/ide.kit/test/qa-functional/data/data6.iml" filepath="$PROJECT_DIR$/ide/ide.kit/test/qa-functional/data/data6.iml" />
       <module fileurl="file://$PROJECT_DIR$/nb/deadlock.detector/deadlock.detector.iml" filepath="$PROJECT_DIR$/nb/deadlock.detector/deadlock.detector.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/lexer/demo/demo.iml" filepath="$PROJECT_DIR$/ide/lexer/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/editor/demosrc/demosrc.iml" filepath="$PROJECT_DIR$/ide/editor/demosrc/demosrc.iml" />
@@ -90,9 +71,6 @@
       <module fileurl="file://$PROJECT_DIR$/ide/dlight.nativeexecution/dlight.nativeexecution.iml" filepath="$PROJECT_DIR$/ide/dlight.nativeexecution/dlight.nativeexecution.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/dlight.nativeexecution.nb/dlight.nativeexecution.nb.iml" filepath="$PROJECT_DIR$/ide/dlight.nativeexecution.nb/dlight.nativeexecution.nb.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/dlight.terminal/dlight.terminal.iml" filepath="$PROJECT_DIR$/ide/dlight.terminal/dlight.terminal.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/docker.api/docker.api.iml" filepath="$PROJECT_DIR$/ide/docker.api/docker.api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/docker.editor/docker.editor.iml" filepath="$PROJECT_DIR$/ide/docker.editor/docker.editor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/docker.ui/docker.ui.iml" filepath="$PROJECT_DIR$/ide/docker.ui/docker.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/editor/editor.iml" filepath="$PROJECT_DIR$/ide/editor/editor.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/editor.actions/editor.actions.iml" filepath="$PROJECT_DIR$/ide/editor.actions/editor.actions.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/editor.autosave/editor.autosave.iml" filepath="$PROJECT_DIR$/ide/editor.autosave/editor.autosave.iml" />
@@ -128,9 +106,9 @@
       <module fileurl="file://$PROJECT_DIR$/ide/editor/test/qa-functional/data/projects/editor_test/src/editor_test.iml" filepath="$PROJECT_DIR$/ide/editor/test/qa-functional/data/projects/editor_test/src/editor_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/editor/test/qa-functional/data/projects/editor_test/editor_test1.iml" filepath="$PROJECT_DIR$/ide/editor/test/qa-functional/data/projects/editor_test/editor_test1.iml" />
       <module fileurl="file://$PROJECT_DIR$/nbi/infra/server/modules/ejb/ejb.iml" filepath="$PROJECT_DIR$/nbi/infra/server/modules/ejb/ejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/harness/libs.nbi.ant/stub/ext/engine/engine.iml" filepath="$PROJECT_DIR$/harness/libs.nbi.ant/stub/ext/engine/engine.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nbi/engine/engine1.iml" filepath="$PROJECT_DIR$/nbi/engine/engine1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nbbuild/installer/engine/engine2.iml" filepath="$PROJECT_DIR$/nbbuild/installer/engine/engine2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nbbuild/installer/engine/engine.iml" filepath="$PROJECT_DIR$/nbbuild/installer/engine/engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/harness/libs.nbi.ant/stub/ext/engine/engine1.iml" filepath="$PROJECT_DIR$/harness/libs.nbi.ant/stub/ext/engine/engine1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nbi/engine/engine2.iml" filepath="$PROJECT_DIR$/nbi/engine/engine2.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/extbrowser/extbrowser.iml" filepath="$PROJECT_DIR$/ide/extbrowser/extbrowser.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/extexecution/extexecution.iml" filepath="$PROJECT_DIR$/ide/extexecution/extexecution.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/extexecution.base/extexecution.base.iml" filepath="$PROJECT_DIR$/ide/extexecution.base/extexecution.base.iml" />
@@ -142,8 +120,6 @@
       <module fileurl="file://$PROJECT_DIR$/ide/lexer/gen/gen.iml" filepath="$PROJECT_DIR$/ide/lexer/gen/gen.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/git/git.iml" filepath="$PROJECT_DIR$/ide/git/git.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/gototest/gototest.iml" filepath="$PROJECT_DIR$/ide/gototest/gototest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/extide/gradle/gradle.iml" filepath="$PROJECT_DIR$/extide/gradle/gradle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/extide/gradle.dists/gradle.dists.iml" filepath="$PROJECT_DIR$/extide/gradle.dists/gradle.dists.iml" />
       <module fileurl="file://$PROJECT_DIR$/contrib/groovy.grailsproject/test/unit/data/projects/completion/grails-app/grails-app.iml" filepath="$PROJECT_DIR$/contrib/groovy.grailsproject/test/unit/data/projects/completion/grails-app/grails-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/contrib/groovy.grails/groovy.grails.iml" filepath="$PROJECT_DIR$/contrib/groovy.grails/groovy.grails.iml" />
       <module fileurl="file://$PROJECT_DIR$/contrib/groovy.grailsproject/groovy.grailsproject.iml" filepath="$PROJECT_DIR$/contrib/groovy.grailsproject/groovy.grailsproject.iml" />
@@ -152,22 +128,8 @@
       <module fileurl="file://$PROJECT_DIR$/ide/gsf.testrunner.ui/gsf.testrunner.ui.iml" filepath="$PROJECT_DIR$/ide/gsf.testrunner.ui/gsf.testrunner.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/contrib/hibernateweb/hibernateweb.iml" filepath="$PROJECT_DIR$/contrib/hibernateweb/hibernateweb.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/html/html.iml" filepath="$PROJECT_DIR$/ide/html/html.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/html.custom/html.custom.iml" filepath="$PROJECT_DIR$/ide/html.custom/html.custom.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/html.editor/html.editor.iml" filepath="$PROJECT_DIR$/ide/html.editor/html.editor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/html.editor.lib/html.editor.lib.iml" filepath="$PROJECT_DIR$/ide/html.editor.lib/html.editor.lib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/html.indexing/html.indexing.iml" filepath="$PROJECT_DIR$/ide/html.indexing/html.indexing.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/html.lexer/html.lexer.iml" filepath="$PROJECT_DIR$/ide/html.lexer/html.lexer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/html.parser/html.parser.iml" filepath="$PROJECT_DIR$/ide/html.parser/html.parser.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/html.validation/html.validation.iml" filepath="$PROJECT_DIR$/ide/html.validation/html.validation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/httpserver/httpserver.iml" filepath="$PROJECT_DIR$/ide/httpserver/httpserver.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/hudson/hudson.iml" filepath="$PROJECT_DIR$/ide/hudson/hudson.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/hudson.git/hudson.git.iml" filepath="$PROJECT_DIR$/ide/hudson.git/hudson.git.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/hudson.mercurial/hudson.mercurial.iml" filepath="$PROJECT_DIR$/ide/hudson.mercurial/hudson.mercurial.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/hudson.subversion/hudson.subversion.iml" filepath="$PROJECT_DIR$/ide/hudson.subversion/hudson.subversion.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/hudson.tasklist/hudson.tasklist.iml" filepath="$PROJECT_DIR$/ide/hudson.tasklist/hudson.tasklist.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/hudson.ui/hudson.ui.iml" filepath="$PROJECT_DIR$/ide/hudson.ui/hudson.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/nb/ide.branding/ide.branding.iml" filepath="$PROJECT_DIR$/nb/ide.branding/ide.branding.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ergonomics/ide.ergonomics/ide.ergonomics.iml" filepath="$PROJECT_DIR$/ergonomics/ide.ergonomics/ide.ergonomics.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/ide.kit/ide.kit.iml" filepath="$PROJECT_DIR$/ide/ide.kit/ide.kit.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/image/image.iml" filepath="$PROJECT_DIR$/ide/image/image.iml" />
       <module fileurl="file://$PROJECT_DIR$/contrib/j2ee.jboss4/j2ee.jboss4.iml" filepath="$PROJECT_DIR$/contrib/j2ee.jboss4/j2ee.jboss4.iml" />
@@ -205,11 +167,8 @@
       <module fileurl="file://$PROJECT_DIR$/ide/localtasks/localtasks.iml" filepath="$PROJECT_DIR$/ide/localtasks/localtasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/lsp.client/lsp.client.iml" filepath="$PROJECT_DIR$/ide/lsp.client/lsp.client.iml" />
       <module fileurl="file://$PROJECT_DIR$/nbbuild/installer/mac/mac.iml" filepath="$PROJECT_DIR$/nbbuild/installer/mac/mac.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/markdown/markdown.iml" filepath="$PROJECT_DIR$/ide/markdown/markdown.iml" />
       <module fileurl="file://$PROJECT_DIR$/javafx/maven.htmlui/maven.htmlui.iml" filepath="$PROJECT_DIR$/javafx/maven.htmlui/maven.htmlui.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/mercurial/mercurial.iml" filepath="$PROJECT_DIR$/ide/mercurial/mercurial.iml" />
       <module fileurl="file://$PROJECT_DIR$/nbbuild/misc/misc.iml" filepath="$PROJECT_DIR$/nbbuild/misc/misc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/mylyn.util/mylyn.util.iml" filepath="$PROJECT_DIR$/ide/mylyn.util/mylyn.util.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/nativeimage.api/nativeimage.api.iml" filepath="$PROJECT_DIR$/ide/nativeimage.api/nativeimage.api.iml" />
       <module fileurl="file://$PROJECT_DIR$/nbbuild/installer/components/products/nb-all/nb-all.iml" filepath="$PROJECT_DIR$/nbbuild/installer/components/products/nb-all/nb-all.iml" />
       <module fileurl="file://$PROJECT_DIR$/nbbuild/installer/components/products/nb-cnd/nb-cnd.iml" filepath="$PROJECT_DIR$/nbbuild/installer/components/products/nb-cnd/nb-cnd.iml" />
@@ -221,14 +180,10 @@
       <module fileurl="file://$PROJECT_DIR$/nbbuild/nbbuild.iml" filepath="$PROJECT_DIR$/nbbuild/nbbuild.iml" />
       <module fileurl="file://$PROJECT_DIR$/nbbuild/installer/infra/nbi-autoupdate/nbi-autoupdate.iml" filepath="$PROJECT_DIR$/nbbuild/installer/infra/nbi-autoupdate/nbi-autoupdate.iml" />
       <module fileurl="file://$PROJECT_DIR$/harness/nbjunit/nbjunit.iml" filepath="$PROJECT_DIR$/harness/nbjunit/nbjunit.iml" />
-      <module fileurl="file://$PROJECT_DIR$/extide/gradle/netbeans-gradle-tooling/netbeans-gradle-tooling.iml" filepath="$PROJECT_DIR$/extide/gradle/netbeans-gradle-tooling/netbeans-gradle-tooling.iml" />
       <module fileurl="file://$PROJECT_DIR$/nbi/infra/utils/newline-correcter/newline-correcter.iml" filepath="$PROJECT_DIR$/nbi/infra/utils/newline-correcter/newline-correcter.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/notifications/notifications.iml" filepath="$PROJECT_DIR$/ide/notifications/notifications.iml" />
-      <module fileurl="file://$PROJECT_DIR$/extide/o.apache.tools.ant.module/o.apache.tools.ant.module.iml" filepath="$PROJECT_DIR$/extide/o.apache.tools.ant.module/o.apache.tools.ant.module.iml" />
       <module fileurl="file://$PROJECT_DIR$/harness/o.n.insane/o.n.insane.iml" filepath="$PROJECT_DIR$/harness/o.n.insane/o.n.insane.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/o.n.swing.dirchooser/o.n.swing.dirchooser.iml" filepath="$PROJECT_DIR$/ide/o.n.swing.dirchooser/o.n.swing.dirchooser.iml" />
       <module fileurl="file://$PROJECT_DIR$/nb/o.n.upgrader/o.n.upgrader.iml" filepath="$PROJECT_DIR$/nb/o.n.upgrader/o.n.upgrader.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/o.openidex.util/o.openidex.util.iml" filepath="$PROJECT_DIR$/ide/o.openidex.util/o.openidex.util.iml" />
       <module fileurl="file://$PROJECT_DIR$/platform/openide.actions/openide.actions.iml" filepath="$PROJECT_DIR$/platform/openide.actions/openide.actions.iml" />
       <module fileurl="file://$PROJECT_DIR$/platform/openide.awt/openide.awt.iml" filepath="$PROJECT_DIR$/platform/openide.awt/openide.awt.iml" />
       <module fileurl="file://$PROJECT_DIR$/platform/openide.compat/openide.compat.iml" filepath="$PROJECT_DIR$/platform/openide.compat/openide.compat.iml" />
@@ -251,7 +206,6 @@
       <module fileurl="file://$PROJECT_DIR$/platform/openide.util.ui.svg/openide.util.ui.svg.iml" filepath="$PROJECT_DIR$/platform/openide.util.ui.svg/openide.util.ui.svg.iml" />
       <module fileurl="file://$PROJECT_DIR$/platform/openide.windows/openide.windows.iml" filepath="$PROJECT_DIR$/platform/openide.windows/openide.windows.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/options.editor/options.editor.iml" filepath="$PROJECT_DIR$/ide/options.editor/options.editor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/extide/options.java/options.java.iml" filepath="$PROJECT_DIR$/extide/options.java/options.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/editor/test/qa-functional/data/org/org.iml" filepath="$PROJECT_DIR$/ide/editor/test/qa-functional/data/org/org.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/parsing.api/parsing.api.iml" filepath="$PROJECT_DIR$/ide/parsing.api/parsing.api.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/parsing.indexing/parsing.indexing.iml" filepath="$PROJECT_DIR$/ide/parsing.indexing/parsing.indexing.iml" />
@@ -259,7 +213,6 @@
       <module fileurl="file://$PROJECT_DIR$/ide/parsing.nb/parsing.nb.iml" filepath="$PROJECT_DIR$/ide/parsing.nb/parsing.nb.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/parsing.ui/parsing.ui.iml" filepath="$PROJECT_DIR$/ide/parsing.ui/parsing.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/editor/test/perf/perf.iml" filepath="$PROJECT_DIR$/ide/editor/test/perf/perf.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ergonomics/performance.ergonomics/performance.ergonomics.iml" filepath="$PROJECT_DIR$/ergonomics/performance.ergonomics/performance.ergonomics.iml" />
       <module fileurl="file://$PROJECT_DIR$/nbi/infra/utils/platform-tester/platform-tester.iml" filepath="$PROJECT_DIR$/nbi/infra/utils/platform-tester/platform-tester.iml" />
       <module fileurl="file://$PROJECT_DIR$/nbi/infra/utils/port-occupation/port-occupation.iml" filepath="$PROJECT_DIR$/nbi/infra/utils/port-occupation/port-occupation.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/print.editor/print.editor.iml" filepath="$PROJECT_DIR$/ide/print.editor/print.editor.iml" />
@@ -278,27 +231,20 @@
       <module fileurl="file://$PROJECT_DIR$/ide/projectuiapi.base/projectuiapi.base.iml" filepath="$PROJECT_DIR$/ide/projectuiapi.base/projectuiapi.base.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/properties/properties.iml" filepath="$PROJECT_DIR$/ide/properties/properties.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/properties.syntax/properties.syntax.iml" filepath="$PROJECT_DIR$/ide/properties.syntax/properties.syntax.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/editor.bookmarks/test/qa-functional/qa-functional.iml" filepath="$PROJECT_DIR$/ide/editor.bookmarks/test/qa-functional/qa-functional.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/ide.kit/test/qa-functional/qa-functional1.iml" filepath="$PROJECT_DIR$/ide/ide.kit/test/qa-functional/qa-functional1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/jellytools.ide/test/qa-functional/qa-functional10.iml" filepath="$PROJECT_DIR$/ide/jellytools.ide/test/qa-functional/qa-functional10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/localhistory/test/qa-functional/qa-functional11.iml" filepath="$PROJECT_DIR$/ide/localhistory/test/qa-functional/qa-functional11.iml" />
-      <module fileurl="file://$PROJECT_DIR$/contrib/j2ee.jboss4/test/qa-functional/qa-functional12.iml" filepath="$PROJECT_DIR$/contrib/j2ee.jboss4/test/qa-functional/qa-functional12.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/css.prep/test/qa-functional/qa-functional13.iml" filepath="$PROJECT_DIR$/ide/css.prep/test/qa-functional/qa-functional13.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/editor/test/qa-functional/qa-functional14.iml" filepath="$PROJECT_DIR$/ide/editor/test/qa-functional/qa-functional14.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/css.visual/test/qa-functional/qa-functional15.iml" filepath="$PROJECT_DIR$/ide/css.visual/test/qa-functional/qa-functional15.iml" />
-      <module fileurl="file://$PROJECT_DIR$/javafx/javafx2.project/test/qa-functional/qa-functional16.iml" filepath="$PROJECT_DIR$/javafx/javafx2.project/test/qa-functional/qa-functional16.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/languages/test/qa-functional/qa-functional2.iml" filepath="$PROJECT_DIR$/ide/languages/test/qa-functional/qa-functional2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/derby/test/qa-functional/qa-functional3.iml" filepath="$PROJECT_DIR$/ide/derby/test/qa-functional/qa-functional3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/httpserver/test/qa-functional/qa-functional4.iml" filepath="$PROJECT_DIR$/ide/httpserver/test/qa-functional/qa-functional4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/properties/test/qa-functional/qa-functional5.iml" filepath="$PROJECT_DIR$/ide/properties/test/qa-functional/qa-functional5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/mercurial/test/qa-functional/qa-functional6.iml" filepath="$PROJECT_DIR$/ide/mercurial/test/qa-functional/qa-functional6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/harness/jellytools.platform/test/qa-functional/qa-functional7.iml" filepath="$PROJECT_DIR$/harness/jellytools.platform/test/qa-functional/qa-functional7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/subversion/test/qa-functional/qa-functional8.iml" filepath="$PROJECT_DIR$/ide/subversion/test/qa-functional/qa-functional8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/git/test/qa-functional/qa-functional9.iml" filepath="$PROJECT_DIR$/ide/git/test/qa-functional/qa-functional9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/harness/jellytools.platform/test/qa-functional/qa-functional.iml" filepath="$PROJECT_DIR$/harness/jellytools.platform/test/qa-functional/qa-functional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/git/test/qa-functional/qa-functional1.iml" filepath="$PROJECT_DIR$/ide/git/test/qa-functional/qa-functional1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/editor/test/qa-functional/qa-functional10.iml" filepath="$PROJECT_DIR$/ide/editor/test/qa-functional/qa-functional10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javafx/javafx2.project/test/qa-functional/qa-functional11.iml" filepath="$PROJECT_DIR$/javafx/javafx2.project/test/qa-functional/qa-functional11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/editor.bookmarks/test/qa-functional/qa-functional2.iml" filepath="$PROJECT_DIR$/ide/editor.bookmarks/test/qa-functional/qa-functional2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/jellytools.ide/test/qa-functional/qa-functional3.iml" filepath="$PROJECT_DIR$/ide/jellytools.ide/test/qa-functional/qa-functional3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/ide.kit/test/qa-functional/qa-functional4.iml" filepath="$PROJECT_DIR$/ide/ide.kit/test/qa-functional/qa-functional4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/localhistory/test/qa-functional/qa-functional5.iml" filepath="$PROJECT_DIR$/ide/localhistory/test/qa-functional/qa-functional5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/languages/test/qa-functional/qa-functional6.iml" filepath="$PROJECT_DIR$/ide/languages/test/qa-functional/qa-functional6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/derby/test/qa-functional/qa-functional7.iml" filepath="$PROJECT_DIR$/ide/derby/test/qa-functional/qa-functional7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrib/j2ee.jboss4/test/qa-functional/qa-functional8.iml" filepath="$PROJECT_DIR$/contrib/j2ee.jboss4/test/qa-functional/qa-functional8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/properties/test/qa-functional/qa-functional9.iml" filepath="$PROJECT_DIR$/ide/properties/test/qa-functional/qa-functional9.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/refactoring.api/refactoring.api.iml" filepath="$PROJECT_DIR$/ide/refactoring.api/refactoring.api.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/schema2beans/schema2beans.iml" filepath="$PROJECT_DIR$/ide/schema2beans/schema2beans.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/selenium2/selenium2.iml" filepath="$PROJECT_DIR$/ide/selenium2/selenium2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/selenium2.server/selenium2.server.iml" filepath="$PROJECT_DIR$/ide/selenium2.server/selenium2.server.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/server/server.iml" filepath="$PROJECT_DIR$/ide/server/server.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/spellchecker/spellchecker.iml" filepath="$PROJECT_DIR$/ide/spellchecker/spellchecker.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/spi.debugger.ui/spi.debugger.ui.iml" filepath="$PROJECT_DIR$/ide/spi.debugger.ui/spi.debugger.ui.iml" />
@@ -308,166 +254,127 @@
       <module fileurl="file://$PROJECT_DIR$/ide/spi.palette/spi.palette.iml" filepath="$PROJECT_DIR$/ide/spi.palette/spi.palette.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/spi.tasklist/spi.tasklist.iml" filepath="$PROJECT_DIR$/ide/spi.tasklist/spi.tasklist.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/spi.viewmodel/spi.viewmodel.iml" filepath="$PROJECT_DIR$/ide/spi.viewmodel/spi.viewmodel.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/subversion/subversion.iml" filepath="$PROJECT_DIR$/ide/subversion/subversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/swing.validation/swing.validation.iml" filepath="$PROJECT_DIR$/ide/swing.validation/swing.validation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/target.iterator/target.iterator.iml" filepath="$PROJECT_DIR$/ide/target.iterator/target.iterator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/options.editor/test/test.iml" filepath="$PROJECT_DIR$/ide/options.editor/test/test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/platform/openide.filesystems/test/test1.iml" filepath="$PROJECT_DIR$/platform/openide.filesystems/test/test1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/platform/openide.actions/test/test10.iml" filepath="$PROJECT_DIR$/platform/openide.actions/test/test10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/platform/openide.loaders/test/test100.iml" filepath="$PROJECT_DIR$/platform/openide.loaders/test/test100.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/languages.yaml/test/test101.iml" filepath="$PROJECT_DIR$/ide/languages.yaml/test/test101.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/editor.indent/test/test102.iml" filepath="$PROJECT_DIR$/ide/editor.indent/test/test102.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/editor.codetemplates/test/test103.iml" filepath="$PROJECT_DIR$/ide/editor.codetemplates/test/test103.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/editor.macros/test/test104.iml" filepath="$PROJECT_DIR$/ide/editor.macros/test/test104.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/lexer.nbbridge/test/test105.iml" filepath="$PROJECT_DIR$/ide/lexer.nbbridge/test/test105.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/parsing.nb/test/test106.iml" filepath="$PROJECT_DIR$/ide/parsing.nb/test/test106.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/extexecution.base/test/test107.iml" filepath="$PROJECT_DIR$/ide/extexecution.base/test/test107.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/dlight.nativeexecution/test/test108.iml" filepath="$PROJECT_DIR$/ide/dlight.nativeexecution/test/test108.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/editor.util/test/test109.iml" filepath="$PROJECT_DIR$/ide/editor.util/test/test109.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/bugzilla/test/test11.iml" filepath="$PROJECT_DIR$/ide/bugzilla/test/test11.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/libs.svnClientAdapter.javahl/test/test110.iml" filepath="$PROJECT_DIR$/ide/libs.svnClientAdapter.javahl/test/test110.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/editor.settings.storage/test/test111.iml" filepath="$PROJECT_DIR$/ide/editor.settings.storage/test/test111.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/project.ant/test/test112.iml" filepath="$PROJECT_DIR$/ide/project.ant/test/test112.iml" />
-      <module fileurl="file://$PROJECT_DIR$/harness/nbjunit/test/test113.iml" filepath="$PROJECT_DIR$/harness/nbjunit/test/test113.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/projectapi/test/test114.iml" filepath="$PROJECT_DIR$/ide/projectapi/test/test114.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/hudson.mercurial/test/test115.iml" filepath="$PROJECT_DIR$/ide/hudson.mercurial/test/test115.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/html.validation/test/test116.iml" filepath="$PROJECT_DIR$/ide/html.validation/test/test116.iml" />
-      <module fileurl="file://$PROJECT_DIR$/platform/openide.compat/test/test117.iml" filepath="$PROJECT_DIR$/platform/openide.compat/test/test117.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/code.analysis/test/test118.iml" filepath="$PROJECT_DIR$/ide/code.analysis/test/test118.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/spellchecker/test/test119.iml" filepath="$PROJECT_DIR$/ide/spellchecker/test/test119.iml" />
-      <module fileurl="file://$PROJECT_DIR$/platform/openide.io/test/test12.iml" filepath="$PROJECT_DIR$/platform/openide.io/test/test12.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/projectui/test/test120.iml" filepath="$PROJECT_DIR$/ide/projectui/test/test120.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/html.custom/test/test121.iml" filepath="$PROJECT_DIR$/ide/html.custom/test/test121.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/libs.git/test/test122.iml" filepath="$PROJECT_DIR$/ide/libs.git/test/test122.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/db.dataview/test/test123.iml" filepath="$PROJECT_DIR$/ide/db.dataview/test/test123.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/spi.palette/test/test124.iml" filepath="$PROJECT_DIR$/ide/spi.palette/test/test124.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/editor.settings/test/test125.iml" filepath="$PROJECT_DIR$/ide/editor.settings/test/test125.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ergonomics/ide.ergonomics/test/test126.iml" filepath="$PROJECT_DIR$/ergonomics/ide.ergonomics/test/test126.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/lib.terminalemulator/test/test127.iml" filepath="$PROJECT_DIR$/ide/lib.terminalemulator/test/test127.iml" />
-      <module fileurl="file://$PROJECT_DIR$/contrib/websvc.wsitmodelext/test/test128.iml" filepath="$PROJECT_DIR$/contrib/websvc.wsitmodelext/test/test128.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/projectuiapi.base/test/test129.iml" filepath="$PROJECT_DIR$/ide/projectuiapi.base/test/test129.iml" />
-      <module fileurl="file://$PROJECT_DIR$/platform/openide.execution.compat8/test/test13.iml" filepath="$PROJECT_DIR$/platform/openide.execution.compat8/test/test13.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/projectuiapi/test/test130.iml" filepath="$PROJECT_DIR$/ide/projectuiapi/test/test130.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/db.mysql/test/test131.iml" filepath="$PROJECT_DIR$/ide/db.mysql/test/test131.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/editor.guards/test/test132.iml" filepath="$PROJECT_DIR$/ide/editor.guards/test/test132.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/spi.viewmodel/test/test14.iml" filepath="$PROJECT_DIR$/ide/spi.viewmodel/test/test14.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/project.ant.compat8/test/test15.iml" filepath="$PROJECT_DIR$/ide/project.ant.compat8/test/test15.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/html.lexer/test/test16.iml" filepath="$PROJECT_DIR$/ide/html.lexer/test/test16.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/project.ant.ui/test/test17.iml" filepath="$PROJECT_DIR$/ide/project.ant.ui/test/test17.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/hudson.git/test/test18.iml" filepath="$PROJECT_DIR$/ide/hudson.git/test/test18.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/css.model/test/test19.iml" filepath="$PROJECT_DIR$/ide/css.model/test/test19.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nb/o.n.upgrader/test/test2.iml" filepath="$PROJECT_DIR$/nb/o.n.upgrader/test/test2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/platform/openide.modules/test/test20.iml" filepath="$PROJECT_DIR$/platform/openide.modules/test/test20.iml" />
-      <module fileurl="file://$PROJECT_DIR$/platform/openide.util/test/test21.iml" filepath="$PROJECT_DIR$/platform/openide.util/test/test21.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/css.lib/test/test22.iml" filepath="$PROJECT_DIR$/ide/css.lib/test/test22.iml" />
-      <module fileurl="file://$PROJECT_DIR$/platform/openide.util.lookup/test/test23.iml" filepath="$PROJECT_DIR$/platform/openide.util.lookup/test/test23.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/csl.api/test/test24.iml" filepath="$PROJECT_DIR$/ide/csl.api/test/test24.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nb/deadlock.detector/test/test25.iml" filepath="$PROJECT_DIR$/nb/deadlock.detector/test/test25.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nbbuild/installer/test/test26.iml" filepath="$PROJECT_DIR$/nbbuild/installer/test/test26.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nbbuild/test/test27.iml" filepath="$PROJECT_DIR$/nbbuild/test/test27.iml" />
-      <module fileurl="file://$PROJECT_DIR$/contrib/websvc.wsitconf/test/test28.iml" filepath="$PROJECT_DIR$/contrib/websvc.wsitconf/test/test28.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/project.libraries/test/test29.iml" filepath="$PROJECT_DIR$/ide/project.libraries/test/test29.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/docker.ui/test/test3.iml" filepath="$PROJECT_DIR$/ide/docker.ui/test/test3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/core.ide/test/test30.iml" filepath="$PROJECT_DIR$/ide/core.ide/test/test30.iml" />
-      <module fileurl="file://$PROJECT_DIR$/contrib/cordova.platforms.ios/test/test31.iml" filepath="$PROJECT_DIR$/contrib/cordova.platforms.ios/test/test31.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/spi.editor.hints/test/test32.iml" filepath="$PROJECT_DIR$/ide/spi.editor.hints/test/test32.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/lsp.client/test/test33.iml" filepath="$PROJECT_DIR$/ide/lsp.client/test/test33.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/db.core/test/test34.iml" filepath="$PROJECT_DIR$/ide/db.core/test/test34.iml" />
-      <module fileurl="file://$PROJECT_DIR$/platform/openide.nodes/test/test35.iml" filepath="$PROJECT_DIR$/platform/openide.nodes/test/test35.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/gsf.testrunner.ui/test/test36.iml" filepath="$PROJECT_DIR$/ide/gsf.testrunner.ui/test/test36.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/dbapi/test/test37.iml" filepath="$PROJECT_DIR$/ide/dbapi/test/test37.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/extexecution/test/test38.iml" filepath="$PROJECT_DIR$/ide/extexecution/test/test38.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/editor.bracesmatching/test/test39.iml" filepath="$PROJECT_DIR$/ide/editor.bracesmatching/test/test39.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/editor.fold/test/test4.iml" filepath="$PROJECT_DIR$/ide/editor.fold/test/test4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/bugtracking.bridge/test/test40.iml" filepath="$PROJECT_DIR$/ide/bugtracking.bridge/test/test40.iml" />
-      <module fileurl="file://$PROJECT_DIR$/platform/openide.windows/test/test41.iml" filepath="$PROJECT_DIR$/platform/openide.windows/test/test41.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/hudson.subversion/test/test42.iml" filepath="$PROJECT_DIR$/ide/hudson.subversion/test/test42.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/html.editor.lib/test/test43.iml" filepath="$PROJECT_DIR$/ide/html.editor.lib/test/test43.iml" />
-      <module fileurl="file://$PROJECT_DIR$/platform/openide.util.ui.svg/test/test44.iml" filepath="$PROJECT_DIR$/platform/openide.util.ui.svg/test/test44.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/editor.document/test/test45.iml" filepath="$PROJECT_DIR$/ide/editor.document/test/test45.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/editor.settings.lib/test/test46.iml" filepath="$PROJECT_DIR$/ide/editor.settings.lib/test/test46.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/spi.tasklist/test/test47.iml" filepath="$PROJECT_DIR$/ide/spi.tasklist/test/test47.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/lexer/test/test48.iml" filepath="$PROJECT_DIR$/ide/lexer/test/test48.iml" />
-      <module fileurl="file://$PROJECT_DIR$/platform/openide.util.ui/test/test49.iml" filepath="$PROJECT_DIR$/platform/openide.util.ui/test/test49.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/db.sql.editor/test/test5.iml" filepath="$PROJECT_DIR$/ide/db.sql.editor/test/test5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/schema2beans/test/test50.iml" filepath="$PROJECT_DIR$/ide/schema2beans/test/test50.iml" />
-      <module fileurl="file://$PROJECT_DIR$/platform/openide.explorer/test/test51.iml" filepath="$PROJECT_DIR$/platform/openide.explorer/test/test51.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/db/test/test52.iml" filepath="$PROJECT_DIR$/ide/db/test/test52.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/nativeimage.api/test/test53.iml" filepath="$PROJECT_DIR$/ide/nativeimage.api/test/test53.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nb/updatecenters/test/test54.iml" filepath="$PROJECT_DIR$/nb/updatecenters/test/test54.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/parsing.lucene/test/test55.iml" filepath="$PROJECT_DIR$/ide/parsing.lucene/test/test55.iml" />
-      <module fileurl="file://$PROJECT_DIR$/extide/gradle/test/test56.iml" filepath="$PROJECT_DIR$/extide/gradle/test/test56.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/spi.navigator/test/test57.iml" filepath="$PROJECT_DIR$/ide/spi.navigator/test/test57.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/bugtracking/test/test58.iml" filepath="$PROJECT_DIR$/ide/bugtracking/test/test58.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/db.metadata.model/test/test59.iml" filepath="$PROJECT_DIR$/ide/db.metadata.model/test/test59.iml" />
-      <module fileurl="file://$PROJECT_DIR$/contrib/j2ee.weblogic9/test/test6.iml" filepath="$PROJECT_DIR$/contrib/j2ee.weblogic9/test/test6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/parsing.indexing/test/test60.iml" filepath="$PROJECT_DIR$/ide/parsing.indexing/test/test60.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/projectapi.nb/test/test61.iml" filepath="$PROJECT_DIR$/ide/projectapi.nb/test/test61.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/hudson.ui/test/test62.iml" filepath="$PROJECT_DIR$/ide/hudson.ui/test/test62.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/libs.graalsdk/test/test63.iml" filepath="$PROJECT_DIR$/ide/libs.graalsdk/test/test63.iml" />
-      <module fileurl="file://$PROJECT_DIR$/platform/openide.dialogs/test/test64.iml" filepath="$PROJECT_DIR$/platform/openide.dialogs/test/test64.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/editor.errorstripe/test/test65.iml" filepath="$PROJECT_DIR$/ide/editor.errorstripe/test/test65.iml" />
-      <module fileurl="file://$PROJECT_DIR$/platform/openide.text/test/test66.iml" filepath="$PROJECT_DIR$/platform/openide.text/test/test66.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nb/autoupdate.pluginimporter/test/test67.iml" filepath="$PROJECT_DIR$/nb/autoupdate.pluginimporter/test/test67.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/refactoring.api/test/test68.iml" filepath="$PROJECT_DIR$/ide/refactoring.api/test/test68.iml" />
-      <module fileurl="file://$PROJECT_DIR$/platform/openide.options/test/test69.iml" filepath="$PROJECT_DIR$/platform/openide.options/test/test69.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/editor.lib/test/test7.iml" filepath="$PROJECT_DIR$/ide/editor.lib/test/test7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/hudson.tasklist/test/test70.iml" filepath="$PROJECT_DIR$/ide/hudson.tasklist/test/test70.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/editor.indent.project/test/test71.iml" filepath="$PROJECT_DIR$/ide/editor.indent.project/test/test71.iml" />
-      <module fileurl="file://$PROJECT_DIR$/platform/openide.execution/test/test72.iml" filepath="$PROJECT_DIR$/platform/openide.execution/test/test72.iml" />
-      <module fileurl="file://$PROJECT_DIR$/javafx/maven.htmlui/test/test73.iml" filepath="$PROJECT_DIR$/javafx/maven.htmlui/test/test73.iml" />
-      <module fileurl="file://$PROJECT_DIR$/contrib/libs.svnClientAdapter.svnkit/test/test74.iml" filepath="$PROJECT_DIR$/contrib/libs.svnClientAdapter.svnkit/test/test74.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/editor.fold.nbui/test/test75.iml" filepath="$PROJECT_DIR$/ide/editor.fold.nbui/test/test75.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/css.editor/test/test76.iml" filepath="$PROJECT_DIR$/ide/css.editor/test/test76.iml" />
-      <module fileurl="file://$PROJECT_DIR$/harness/apisupport.harness/test/test77.iml" filepath="$PROJECT_DIR$/harness/apisupport.harness/test/test77.iml" />
-      <module fileurl="file://$PROJECT_DIR$/platform/openide.filesystems.nb/test/test78.iml" filepath="$PROJECT_DIR$/platform/openide.filesystems.nb/test/test78.iml" />
-      <module fileurl="file://$PROJECT_DIR$/javafx/javafx2.editor/test/test79.iml" filepath="$PROJECT_DIR$/javafx/javafx2.editor/test/test79.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/html.editor/test/test8.iml" filepath="$PROJECT_DIR$/ide/html.editor/test/test8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/platform/openide.filesystems.compat8/test/test80.iml" filepath="$PROJECT_DIR$/platform/openide.filesystems.compat8/test/test80.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/editor.tools.storage/test/test81.iml" filepath="$PROJECT_DIR$/ide/editor.tools.storage/test/test81.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/notifications/test/test82.iml" filepath="$PROJECT_DIR$/ide/notifications/test/test82.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/server/test/test83.iml" filepath="$PROJECT_DIR$/ide/server/test/test83.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/html.parser/test/test84.iml" filepath="$PROJECT_DIR$/ide/html.parser/test/test84.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/docker.api/test/test85.iml" filepath="$PROJECT_DIR$/ide/docker.api/test/test85.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/editor.structure/test/test86.iml" filepath="$PROJECT_DIR$/ide/editor.structure/test/test86.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/editor.search/test/test87.iml" filepath="$PROJECT_DIR$/ide/editor.search/test/test87.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/html/test/test88.iml" filepath="$PROJECT_DIR$/ide/html/test/test88.iml" />
-      <module fileurl="file://$PROJECT_DIR$/harness/o.n.insane/test/test89.iml" filepath="$PROJECT_DIR$/harness/o.n.insane/test/test89.iml" />
-      <module fileurl="file://$PROJECT_DIR$/contrib/groovy.grailsproject/test/unit/data/projects/completion/test/test9.iml" filepath="$PROJECT_DIR$/contrib/groovy.grailsproject/test/unit/data/projects/completion/test/test9.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/project.libraries.ui/test/test90.iml" filepath="$PROJECT_DIR$/ide/project.libraries.ui/test/test90.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/parsing.api/test/test91.iml" filepath="$PROJECT_DIR$/ide/parsing.api/test/test91.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/hudson/test/test92.iml" filepath="$PROJECT_DIR$/ide/hudson/test/test92.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/editor.lib2/test/test93.iml" filepath="$PROJECT_DIR$/ide/editor.lib2/test/test93.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/csl.types/test/test94.iml" filepath="$PROJECT_DIR$/ide/csl.types/test/test94.iml" />
-      <module fileurl="file://$PROJECT_DIR$/contrib/groovy.grails/test/test95.iml" filepath="$PROJECT_DIR$/contrib/groovy.grails/test/test95.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/jumpto/test/test96.iml" filepath="$PROJECT_DIR$/ide/jumpto/test/test96.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/javascript2.debug/test/test97.iml" filepath="$PROJECT_DIR$/ide/javascript2.debug/test/test97.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nb/welcome/test/test98.iml" filepath="$PROJECT_DIR$/nb/welcome/test/test98.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/bugtracking.commons/test/test99.iml" filepath="$PROJECT_DIR$/ide/bugtracking.commons/test/test99.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/openide.dialogs/test/test.iml" filepath="$PROJECT_DIR$/platform/openide.dialogs/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/editor.errorstripe/test/test1.iml" filepath="$PROJECT_DIR$/ide/editor.errorstripe/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/editor.lib/test/test10.iml" filepath="$PROJECT_DIR$/ide/editor.lib/test/test10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/projectuiapi/test/test100.iml" filepath="$PROJECT_DIR$/ide/projectuiapi/test/test100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/hudson.ui/test/test101.iml" filepath="$PROJECT_DIR$/ide/hudson.ui/test/test101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/libs.graalsdk/test/test102.iml" filepath="$PROJECT_DIR$/ide/libs.graalsdk/test/test102.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/editor.guards/test/test103.iml" filepath="$PROJECT_DIR$/ide/editor.guards/test/test103.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/openide.options/test/test11.iml" filepath="$PROJECT_DIR$/platform/openide.options/test/test11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/editor.indent.project/test/test12.iml" filepath="$PROJECT_DIR$/ide/editor.indent.project/test/test12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrib/groovy.grailsproject/test/unit/data/projects/completion/test/test13.iml" filepath="$PROJECT_DIR$/contrib/groovy.grailsproject/test/unit/data/projects/completion/test/test13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/openide.execution/test/test14.iml" filepath="$PROJECT_DIR$/platform/openide.execution/test/test14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/openide.actions/test/test15.iml" filepath="$PROJECT_DIR$/platform/openide.actions/test/test15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javafx/maven.htmlui/test/test16.iml" filepath="$PROJECT_DIR$/javafx/maven.htmlui/test/test16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/openide.io/test/test17.iml" filepath="$PROJECT_DIR$/platform/openide.io/test/test17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrib/libs.svnClientAdapter.svnkit/test/test18.iml" filepath="$PROJECT_DIR$/contrib/libs.svnClientAdapter.svnkit/test/test18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/editor.fold.nbui/test/test19.iml" filepath="$PROJECT_DIR$/ide/editor.fold.nbui/test/test19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/openide.text/test/test2.iml" filepath="$PROJECT_DIR$/platform/openide.text/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/openide.execution.compat8/test/test20.iml" filepath="$PROJECT_DIR$/platform/openide.execution.compat8/test/test20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/harness/apisupport.harness/test/test21.iml" filepath="$PROJECT_DIR$/harness/apisupport.harness/test/test21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/spi.viewmodel/test/test22.iml" filepath="$PROJECT_DIR$/ide/spi.viewmodel/test/test22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/openide.filesystems.nb/test/test23.iml" filepath="$PROJECT_DIR$/platform/openide.filesystems.nb/test/test23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javafx/javafx2.editor/test/test24.iml" filepath="$PROJECT_DIR$/javafx/javafx2.editor/test/test24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/project.ant.compat8/test/test25.iml" filepath="$PROJECT_DIR$/ide/project.ant.compat8/test/test25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/project.ant.ui/test/test26.iml" filepath="$PROJECT_DIR$/ide/project.ant.ui/test/test26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/openide.filesystems.compat8/test/test27.iml" filepath="$PROJECT_DIR$/platform/openide.filesystems.compat8/test/test27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/editor.tools.storage/test/test28.iml" filepath="$PROJECT_DIR$/ide/editor.tools.storage/test/test28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/openide.modules/test/test29.iml" filepath="$PROJECT_DIR$/platform/openide.modules/test/test29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/options.editor/test/test3.iml" filepath="$PROJECT_DIR$/ide/options.editor/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/notifications/test/test30.iml" filepath="$PROJECT_DIR$/ide/notifications/test/test30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/openide.util/test/test31.iml" filepath="$PROJECT_DIR$/platform/openide.util/test/test31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/server/test/test32.iml" filepath="$PROJECT_DIR$/ide/server/test/test32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/editor.structure/test/test33.iml" filepath="$PROJECT_DIR$/ide/editor.structure/test/test33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/editor.search/test/test34.iml" filepath="$PROJECT_DIR$/ide/editor.search/test/test34.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/openide.util.lookup/test/test35.iml" filepath="$PROJECT_DIR$/platform/openide.util.lookup/test/test35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/csl.api/test/test36.iml" filepath="$PROJECT_DIR$/ide/csl.api/test/test36.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nb/deadlock.detector/test/test37.iml" filepath="$PROJECT_DIR$/nb/deadlock.detector/test/test37.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/html/test/test38.iml" filepath="$PROJECT_DIR$/ide/html/test/test38.iml" />
+      <module fileurl="file://$PROJECT_DIR$/harness/o.n.insane/test/test39.iml" filepath="$PROJECT_DIR$/harness/o.n.insane/test/test39.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/openide.filesystems/test/test4.iml" filepath="$PROJECT_DIR$/platform/openide.filesystems/test/test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/project.libraries.ui/test/test40.iml" filepath="$PROJECT_DIR$/ide/project.libraries.ui/test/test40.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nbbuild/installer/test/test41.iml" filepath="$PROJECT_DIR$/nbbuild/installer/test/test41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/parsing.api/test/test42.iml" filepath="$PROJECT_DIR$/ide/parsing.api/test/test42.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nbbuild/test/test43.iml" filepath="$PROJECT_DIR$/nbbuild/test/test43.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/editor.lib2/test/test44.iml" filepath="$PROJECT_DIR$/ide/editor.lib2/test/test44.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/csl.types/test/test45.iml" filepath="$PROJECT_DIR$/ide/csl.types/test/test45.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrib/websvc.wsitconf/test/test46.iml" filepath="$PROJECT_DIR$/contrib/websvc.wsitconf/test/test46.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/project.libraries/test/test47.iml" filepath="$PROJECT_DIR$/ide/project.libraries/test/test47.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrib/groovy.grails/test/test48.iml" filepath="$PROJECT_DIR$/contrib/groovy.grails/test/test48.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/jumpto/test/test49.iml" filepath="$PROJECT_DIR$/ide/jumpto/test/test49.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nb/autoupdate.pluginimporter/test/test5.iml" filepath="$PROJECT_DIR$/nb/autoupdate.pluginimporter/test/test5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/javascript2.debug/test/test50.iml" filepath="$PROJECT_DIR$/ide/javascript2.debug/test/test50.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/core.ide/test/test51.iml" filepath="$PROJECT_DIR$/ide/core.ide/test/test51.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrib/cordova.platforms.ios/test/test52.iml" filepath="$PROJECT_DIR$/contrib/cordova.platforms.ios/test/test52.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nb/welcome/test/test53.iml" filepath="$PROJECT_DIR$/nb/welcome/test/test53.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/spi.editor.hints/test/test54.iml" filepath="$PROJECT_DIR$/ide/spi.editor.hints/test/test54.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/openide.loaders/test/test55.iml" filepath="$PROJECT_DIR$/platform/openide.loaders/test/test55.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/languages.yaml/test/test56.iml" filepath="$PROJECT_DIR$/ide/languages.yaml/test/test56.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/editor.indent/test/test57.iml" filepath="$PROJECT_DIR$/ide/editor.indent/test/test57.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/lsp.client/test/test58.iml" filepath="$PROJECT_DIR$/ide/lsp.client/test/test58.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/editor.codetemplates/test/test59.iml" filepath="$PROJECT_DIR$/ide/editor.codetemplates/test/test59.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nb/o.n.upgrader/test/test6.iml" filepath="$PROJECT_DIR$/nb/o.n.upgrader/test/test6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/openide.nodes/test/test60.iml" filepath="$PROJECT_DIR$/platform/openide.nodes/test/test60.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/gsf.testrunner.ui/test/test61.iml" filepath="$PROJECT_DIR$/ide/gsf.testrunner.ui/test/test61.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/editor.macros/test/test62.iml" filepath="$PROJECT_DIR$/ide/editor.macros/test/test62.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/lexer.nbbridge/test/test63.iml" filepath="$PROJECT_DIR$/ide/lexer.nbbridge/test/test63.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/parsing.nb/test/test64.iml" filepath="$PROJECT_DIR$/ide/parsing.nb/test/test64.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/extexecution.base/test/test65.iml" filepath="$PROJECT_DIR$/ide/extexecution.base/test/test65.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/dlight.nativeexecution/test/test66.iml" filepath="$PROJECT_DIR$/ide/dlight.nativeexecution/test/test66.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/editor.util/test/test67.iml" filepath="$PROJECT_DIR$/ide/editor.util/test/test67.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/libs.svnClientAdapter.javahl/test/test68.iml" filepath="$PROJECT_DIR$/ide/libs.svnClientAdapter.javahl/test/test68.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/editor.settings.storage/test/test69.iml" filepath="$PROJECT_DIR$/ide/editor.settings.storage/test/test69.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/editor.fold/test/test7.iml" filepath="$PROJECT_DIR$/ide/editor.fold/test/test7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/extexecution/test/test70.iml" filepath="$PROJECT_DIR$/ide/extexecution/test/test70.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/project.ant/test/test71.iml" filepath="$PROJECT_DIR$/ide/project.ant/test/test71.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/editor.bracesmatching/test/test72.iml" filepath="$PROJECT_DIR$/ide/editor.bracesmatching/test/test72.iml" />
+      <module fileurl="file://$PROJECT_DIR$/harness/nbjunit/test/test73.iml" filepath="$PROJECT_DIR$/harness/nbjunit/test/test73.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/projectapi/test/test74.iml" filepath="$PROJECT_DIR$/ide/projectapi/test/test74.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/openide.windows/test/test75.iml" filepath="$PROJECT_DIR$/platform/openide.windows/test/test75.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/openide.util.ui.svg/test/test76.iml" filepath="$PROJECT_DIR$/platform/openide.util.ui.svg/test/test76.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/editor.document/test/test77.iml" filepath="$PROJECT_DIR$/ide/editor.document/test/test77.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/editor.settings.lib/test/test78.iml" filepath="$PROJECT_DIR$/ide/editor.settings.lib/test/test78.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/spi.tasklist/test/test79.iml" filepath="$PROJECT_DIR$/ide/spi.tasklist/test/test79.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/refactoring.api/test/test8.iml" filepath="$PROJECT_DIR$/ide/refactoring.api/test/test8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/lexer/test/test80.iml" filepath="$PROJECT_DIR$/ide/lexer/test/test80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/openide.compat/test/test81.iml" filepath="$PROJECT_DIR$/platform/openide.compat/test/test81.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/code.analysis/test/test82.iml" filepath="$PROJECT_DIR$/ide/code.analysis/test/test82.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/spellchecker/test/test83.iml" filepath="$PROJECT_DIR$/ide/spellchecker/test/test83.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/openide.util.ui/test/test84.iml" filepath="$PROJECT_DIR$/platform/openide.util.ui/test/test84.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/schema2beans/test/test85.iml" filepath="$PROJECT_DIR$/ide/schema2beans/test/test85.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/openide.explorer/test/test86.iml" filepath="$PROJECT_DIR$/platform/openide.explorer/test/test86.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/projectui/test/test87.iml" filepath="$PROJECT_DIR$/ide/projectui/test/test87.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/libs.git/test/test88.iml" filepath="$PROJECT_DIR$/ide/libs.git/test/test88.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/spi.palette/test/test89.iml" filepath="$PROJECT_DIR$/ide/spi.palette/test/test89.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrib/j2ee.weblogic9/test/test9.iml" filepath="$PROJECT_DIR$/contrib/j2ee.weblogic9/test/test9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/editor.settings/test/test90.iml" filepath="$PROJECT_DIR$/ide/editor.settings/test/test90.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/lib.terminalemulator/test/test91.iml" filepath="$PROJECT_DIR$/ide/lib.terminalemulator/test/test91.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/nativeimage.api/test/test92.iml" filepath="$PROJECT_DIR$/ide/nativeimage.api/test/test92.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nb/updatecenters/test/test93.iml" filepath="$PROJECT_DIR$/nb/updatecenters/test/test93.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/parsing.lucene/test/test94.iml" filepath="$PROJECT_DIR$/ide/parsing.lucene/test/test94.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/spi.navigator/test/test95.iml" filepath="$PROJECT_DIR$/ide/spi.navigator/test/test95.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrib/websvc.wsitmodelext/test/test96.iml" filepath="$PROJECT_DIR$/contrib/websvc.wsitmodelext/test/test96.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/parsing.indexing/test/test97.iml" filepath="$PROJECT_DIR$/ide/parsing.indexing/test/test97.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/projectapi.nb/test/test98.iml" filepath="$PROJECT_DIR$/ide/projectapi.nb/test/test98.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/projectuiapi.base/test/test99.iml" filepath="$PROJECT_DIR$/ide/projectuiapi.base/test/test99.iml" />
       <module fileurl="file://$PROJECT_DIR$/nb/uihandler.exceptionreporter/uihandler.exceptionreporter.iml" filepath="$PROJECT_DIR$/nb/uihandler.exceptionreporter/uihandler.exceptionreporter.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/properties/test/unit/unit.iml" filepath="$PROJECT_DIR$/ide/properties/test/unit/unit.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/editor.bookmarks/test/unit/unit1.iml" filepath="$PROJECT_DIR$/ide/editor.bookmarks/test/unit/unit1.iml" />
       <module fileurl="file://$PROJECT_DIR$/platform/openide.awt/test/unit/unit10.iml" filepath="$PROJECT_DIR$/platform/openide.awt/test/unit/unit10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/o.openidex.util/test/unit/unit11.iml" filepath="$PROJECT_DIR$/ide/o.openidex.util/test/unit/unit11.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/httpserver/test/unit/unit12.iml" filepath="$PROJECT_DIR$/ide/httpserver/test/unit/unit12.iml" />
-      <module fileurl="file://$PROJECT_DIR$/extide/o.apache.tools.ant.module/test/unit/unit13.iml" filepath="$PROJECT_DIR$/extide/o.apache.tools.ant.module/test/unit/unit13.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/libs.freemarker/test/unit/unit14.iml" filepath="$PROJECT_DIR$/ide/libs.freemarker/test/unit/unit14.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/extbrowser/test/unit/unit15.iml" filepath="$PROJECT_DIR$/ide/extbrowser/test/unit/unit15.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/languages/test/unit/unit16.iml" filepath="$PROJECT_DIR$/ide/languages/test/unit/unit16.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/subversion/test/unit/unit17.iml" filepath="$PROJECT_DIR$/ide/subversion/test/unit/unit17.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/editor/test/unit/unit18.iml" filepath="$PROJECT_DIR$/ide/editor/test/unit/unit18.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/db/test/unit/unit19.iml" filepath="$PROJECT_DIR$/ide/db/test/unit/unit19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrib/groovy.grailsproject/test/unit/unit11.iml" filepath="$PROJECT_DIR$/contrib/groovy.grailsproject/test/unit/unit11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/libs.freemarker/test/unit/unit12.iml" filepath="$PROJECT_DIR$/ide/libs.freemarker/test/unit/unit12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/extbrowser/test/unit/unit13.iml" filepath="$PROJECT_DIR$/ide/extbrowser/test/unit/unit13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/languages/test/unit/unit14.iml" filepath="$PROJECT_DIR$/ide/languages/test/unit/unit14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/git/test/unit/unit15.iml" filepath="$PROJECT_DIR$/ide/git/test/unit/unit15.iml" />
       <module fileurl="file://$PROJECT_DIR$/javafx/javafx2.project/test/unit/unit2.iml" filepath="$PROJECT_DIR$/javafx/javafx2.project/test/unit/unit2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/localhistory/test/unit/unit20.iml" filepath="$PROJECT_DIR$/ide/localhistory/test/unit/unit20.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/derby/test/unit/unit21.iml" filepath="$PROJECT_DIR$/ide/derby/test/unit/unit21.iml" />
-      <module fileurl="file://$PROJECT_DIR$/contrib/groovy.grailsproject/test/unit/unit22.iml" filepath="$PROJECT_DIR$/contrib/groovy.grailsproject/test/unit/unit22.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/git/test/unit/unit23.iml" filepath="$PROJECT_DIR$/ide/git/test/unit/unit23.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/diff/test/unit/unit3.iml" filepath="$PROJECT_DIR$/ide/diff/test/unit/unit3.iml" />
       <module fileurl="file://$PROJECT_DIR$/platform/openide.awt/test/unit/src/unit4.iml" filepath="$PROJECT_DIR$/platform/openide.awt/test/unit/src/unit4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/css.prep/test/unit/unit5.iml" filepath="$PROJECT_DIR$/ide/css.prep/test/unit/unit5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/contrib/j2ee.jboss4/test/unit/unit6.iml" filepath="$PROJECT_DIR$/contrib/j2ee.jboss4/test/unit/unit6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/css.visual/test/unit/unit7.iml" filepath="$PROJECT_DIR$/ide/css.visual/test/unit/unit7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ide/mercurial/test/unit/unit8.iml" filepath="$PROJECT_DIR$/ide/mercurial/test/unit/unit8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/editor/test/unit/unit5.iml" filepath="$PROJECT_DIR$/ide/editor/test/unit/unit5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/localhistory/test/unit/unit6.iml" filepath="$PROJECT_DIR$/ide/localhistory/test/unit/unit6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrib/j2ee.jboss4/test/unit/unit7.iml" filepath="$PROJECT_DIR$/contrib/j2ee.jboss4/test/unit/unit7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide/derby/test/unit/unit8.iml" filepath="$PROJECT_DIR$/ide/derby/test/unit/unit8.iml" />
       <module fileurl="file://$PROJECT_DIR$/ide/spi.debugger.ui/test/unit/unit9.iml" filepath="$PROJECT_DIR$/ide/spi.debugger.ui/test/unit/unit9.iml" />
       <module fileurl="file://$PROJECT_DIR$/nb/updatecenters/updatecenters.iml" filepath="$PROJECT_DIR$/nb/updatecenters/updatecenters.iml" />
       <module fileurl="file://$PROJECT_DIR$/nbi/infra/server/modules/war-admin/war-admin.iml" filepath="$PROJECT_DIR$/nbi/infra/server/modules/war-admin/war-admin.iml" />

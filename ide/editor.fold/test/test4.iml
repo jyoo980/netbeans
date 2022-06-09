@@ -7,20 +7,20 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="unit18" />
-    <orderEntry type="module" module-name="test21" />
+    <orderEntry type="module" module-name="openide.util" />
+    <orderEntry type="module" module-name="openide.util.lookup" />
+    <orderEntry type="module" module-name="unit15" />
+    <orderEntry type="module" module-name="test100" />
+    <orderEntry type="module" module-name="test102" />
+    <orderEntry type="module" module-name="test17" />
+    <orderEntry type="module" module-name="test42" />
+    <orderEntry type="module" module-name="openide.compat" />
+    <orderEntry type="module" module-name="nbjunit" />
+    <orderEntry type="module" module-name="test96" />
     <orderEntry type="module" module-name="editor.fold" />
     <orderEntry type="module" module-name="openide.util.ui" />
-    <orderEntry type="module" module-name="test109" />
-    <orderEntry type="module" module-name="test113" />
-    <orderEntry type="module" module-name="test49" />
-    <orderEntry type="module" module-name="editor.deprecated.pre65formatting" />
-    <orderEntry type="module" module-name="openide.util" />
-    <orderEntry type="module" module-name="openide.compat" />
-    <orderEntry type="module" module-name="test117" />
-    <orderEntry type="module" module-name="nbjunit" />
-    <orderEntry type="module" module-name="editor.lib" />
     <orderEntry type="module" module-name="test7" />
-    <orderEntry type="module" module-name="openide.util.lookup" />
+    <orderEntry type="module" module-name="editor.lib" />
+    <orderEntry type="module" module-name="editor.deprecated.pre65formatting" />
   </component>
 </module>

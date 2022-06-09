@@ -7,54 +7,54 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="test24" />
-    <orderEntry type="module" module-name="test35" />
-    <orderEntry type="module" module-name="test21" />
-    <orderEntry type="module" module-name="openide.util.ui" />
-    <orderEntry type="module" module-name="unit14" />
-    <orderEntry type="module" module-name="openide.util" />
-    <orderEntry type="module" module-name="test23" />
-    <orderEntry type="module" module-name="groovy.grails" />
-    <orderEntry type="module" module-name="editor.lib" />
-    <orderEntry type="module" module-name="openide.filesystems" />
-    <orderEntry type="module" module-name="openide.util.lookup" />
+    <orderEntry type="module" module-name="unit5" />
+    <orderEntry type="module" module-name="perf" />
+    <orderEntry type="module" module-name="test48" />
+    <orderEntry type="module" module-name="test15" />
+    <orderEntry type="module" module-name="test27" />
     <orderEntry type="module" module-name="openide.filesystems.compat8" />
-    <orderEntry type="module" module-name="unit18" />
-    <orderEntry type="module" module-name="test12" />
-    <orderEntry type="module" module-name="test49" />
-    <orderEntry type="module" module-name="projectuiapi.base" />
-    <orderEntry type="module" module-name="openide.loaders" />
-    <orderEntry type="module" module-name="openide.actions" />
-    <orderEntry type="module" module-name="test117" />
+    <orderEntry type="module" module-name="test84" />
+    <orderEntry type="module" module-name="test55" />
+    <orderEntry type="module" module-name="test99" />
     <orderEntry type="module" module-name="openide.awt" />
-    <orderEntry type="module" module-name="test80" />
-    <orderEntry type="module" module-name="projectuiapi" />
-    <orderEntry type="module" module-name="test64" />
-    <orderEntry type="module" module-name="projectapi" />
-    <orderEntry type="module" module-name="test41" />
-    <orderEntry type="module" module-name="openide.io" />
-    <orderEntry type="module" module-name="extexecution" />
+    <orderEntry type="module" module-name="openide.windows" />
     <orderEntry type="module" module-name="test10" />
     <orderEntry type="module" module-name="csl.api" />
-    <orderEntry type="module" module-name="openide.windows" />
-    <orderEntry type="module" module-name="test130" />
-    <orderEntry type="module" module-name="csl.types" />
-    <orderEntry type="module" module-name="openide.filesystems.nb" />
-    <orderEntry type="module" module-name="openide.dialogs" />
-    <orderEntry type="module" module-name="test129" />
-    <orderEntry type="module" module-name="test114" />
-    <orderEntry type="module" module-name="test38" />
-    <orderEntry type="module" module-name="test78" />
-    <orderEntry type="module" module-name="test95" />
-    <orderEntry type="module" module-name="perf" />
-    <orderEntry type="module" module-name="editor" />
-    <orderEntry type="module" module-name="editor.deprecated.pre65formatting" />
-    <orderEntry type="module" module-name="openide.compat" />
-    <orderEntry type="module" module-name="test61" />
-    <orderEntry type="module" module-name="unit10" />
-    <orderEntry type="module" module-name="test1" />
-    <orderEntry type="module" module-name="test7" />
+    <orderEntry type="module" module-name="openide.filesystems" />
     <orderEntry type="module" module-name="openide.nodes" />
+    <orderEntry type="module" module-name="csl.types" />
+    <orderEntry type="module" module-name="test75" />
+    <orderEntry type="module" module-name="test35" />
+    <orderEntry type="module" module-name="openide.util.ui" />
+    <orderEntry type="module" module-name="extexecution" />
+    <orderEntry type="module" module-name="openide.util" />
+    <orderEntry type="module" module-name="test74" />
+    <orderEntry type="module" module-name="test17" />
+    <orderEntry type="module" module-name="test23" />
+    <orderEntry type="module" module-name="test81" />
+    <orderEntry type="module" module-name="groovy.grails" />
+    <orderEntry type="module" module-name="unit10" />
+    <orderEntry type="module" module-name="editor.deprecated.pre65formatting" />
+    <orderEntry type="module" module-name="test60" />
+    <orderEntry type="module" module-name="openide.io" />
+    <orderEntry type="module" module-name="openide.filesystems.nb" />
+    <orderEntry type="module" module-name="unit12" />
     <orderEntry type="module" module-name="test100" />
+    <orderEntry type="module" module-name="openide.compat" />
+    <orderEntry type="module" module-name="openide.actions" />
+    <orderEntry type="module" module-name="openide.loaders" />
+    <orderEntry type="module" module-name="openide.util.lookup" />
+    <orderEntry type="module" module-name="editor.lib" />
+    <orderEntry type="module" module-name="projectapi" />
+    <orderEntry type="module" module-name="test70" />
+    <orderEntry type="module" module-name="test4" />
+    <orderEntry type="module" module-name="projectuiapi" />
+    <orderEntry type="module" module-name="editor" />
+    <orderEntry type="module" module-name="projectuiapi.base" />
+    <orderEntry type="module" module-name="test98" />
+    <orderEntry type="module" module-name="test31" />
+    <orderEntry type="module" module-name="test" />
+    <orderEntry type="module" module-name="test36" />
+    <orderEntry type="module" module-name="openide.dialogs" />
   </component>
 </module>

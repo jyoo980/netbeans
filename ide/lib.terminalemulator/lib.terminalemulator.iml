@@ -7,9 +7,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="unit10" />
-    <orderEntry type="module" module-name="openide.loaders" />
     <orderEntry type="module" module-name="openide.awt" />
-    <orderEntry type="module" module-name="test100" />
+    <orderEntry type="module" module-name="unit10" />
+    <orderEntry type="module" module-name="test55" />
+    <orderEntry type="module" module-name="openide.loaders" />
   </component>
 </module>

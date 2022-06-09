@@ -7,13 +7,13 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="qa-functional16" />
-    <orderEntry type="module" module-name="nbjunit" />
     <orderEntry type="module" module-name="unit1" />
     <orderEntry type="module" module-name="jellytools.ide" />
-    <orderEntry type="module" module-name="test137" />
-    <orderEntry type="module" module-name="editor.bookmarks" />
+    <orderEntry type="module" module-name="qa-functional3" />
     <orderEntry type="module" module-name="jellytools.platform" />
-    <orderEntry type="module" module-name="qa-functional12" />
+    <orderEntry type="module" module-name="qa-functional" />
+    <orderEntry type="module" module-name="editor.bookmarks" />
+    <orderEntry type="module" module-name="nbjunit" />
+    <orderEntry type="module" module-name="test73" />
   </component>
 </module>
