@@ -1,1 +1,0 @@
-<?php $lambda = function ($param1, $param2) { }; ?>

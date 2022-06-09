@@ -1,6 +1,0 @@
-Code completion result for source line:
-$aa->|
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)
-METHOD     aa()                            [PUBLIC]   ClassName
-METHOD     bb()                            [PUBLIC]   ClassName
-METHOD     cc()                            [PUBLIC]   ClassName

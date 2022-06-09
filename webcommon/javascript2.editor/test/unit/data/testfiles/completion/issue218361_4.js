@@ -1,3 +1,0 @@
-window.history.
-function test(){
-}

@@ -1,2 +1,0 @@
-    |>MARK_OCCURRENCES:prop02<|: 20,
-    prop01 = prop01 + |>MARK_OCCURRENCES:pro^p02<|;

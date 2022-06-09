@@ -1,2 +1,0 @@
-    private function |>MARK_OCCURRENCES:get^Two<|()
-        $two = $this->|>MARK_OCCURRENCES:getTwo<|();

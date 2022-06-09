@@ -1,2 +1,0 @@
-function GlobalUriHelper(|>MARK_OCCURRENCES:myPattern<|) {
-		systemUri.replace(|>MARK_OCCURRENCES:myPat^tern<|, function(a, protocol, server, id) {

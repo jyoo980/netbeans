@@ -1,2 +1,0 @@
-function singularAutoPlural(^|>MARK_OCCURRENCES:singular<|, plural = |>MARK_OCCURRENCES:singular<|+"s", 
-  return [|>MARK_OCCURRENCES:singular<|, plural, rallyingCry ]; 

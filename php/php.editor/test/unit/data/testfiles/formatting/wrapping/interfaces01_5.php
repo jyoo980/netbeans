@@ -1,7 +1,0 @@
-<?php
-class VeryLongNameVeryLongNameVeryLongNameVeryLongNameVeryLongNameVeryLongName implements Inte1, Interface2, Inter3 {
-    public function test() {
-
-    }
-}
-?>

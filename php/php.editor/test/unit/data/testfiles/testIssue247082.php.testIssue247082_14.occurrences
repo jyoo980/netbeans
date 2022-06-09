@@ -1,2 +1,0 @@
-    public $|>MARK_OCCURRENCES:myFieldInstance<| = 'myFieldInstance';
-            echo $this->|>MARK_OCCURRENCES:myFie^ldInstance<| . PHP_EOL;

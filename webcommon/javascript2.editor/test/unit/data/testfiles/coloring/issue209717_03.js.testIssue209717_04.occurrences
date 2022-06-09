@@ -1,2 +1,0 @@
-    |>MARK_OCCURRENCES:foo22<| = "fasfdas";
-        foobar = (typeof |>MARK_OCCURRENCES:foo^22<| == "undefined") ? bar : foo;

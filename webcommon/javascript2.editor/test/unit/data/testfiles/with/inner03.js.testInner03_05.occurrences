@@ -1,3 +1,0 @@
-        |>MARK_OCCURRENCES:state<|: "CR"
-        console.log(|>MARK_OCCURRENCES:sta^te<|);
-                console.log(|>MARK_OCCURRENCES:state<|);

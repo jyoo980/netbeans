@@ -1,3 +1,0 @@
-use MyVendor\PackageTwo\|>MARK_OCCURRENCES:MyTrait<|;
-    use |>MARK_OCCURRENCES:MyTrait<|;
-trait |>MARK_OCCURRENCES:MyTr^ait<| {

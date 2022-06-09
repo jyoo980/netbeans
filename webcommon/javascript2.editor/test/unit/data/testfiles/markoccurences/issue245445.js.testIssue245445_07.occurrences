@@ -1,2 +1,0 @@
-var |>MARK_OCCURRENCES:myL^ib<| = new MyLib();
-|>MARK_OCCURRENCES:myLib<|.myMethod([1, 2, 3, 4]);

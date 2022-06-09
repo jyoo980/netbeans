@@ -1,3 +1,0 @@
-Detected parser errors in the file:
-Unexpected "/if" tag, expected "/capture" : offset <20:23>
-Unclosed "if" tag : offset <1:3>

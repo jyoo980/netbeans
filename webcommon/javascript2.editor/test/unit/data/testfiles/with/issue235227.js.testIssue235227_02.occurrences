@@ -1,2 +1,0 @@
-        |>MARK_OCCURRENCES:innerObject<|: {
-    with (this.modal.|>MARK_OCCURRENCES:inner^Object<|) {

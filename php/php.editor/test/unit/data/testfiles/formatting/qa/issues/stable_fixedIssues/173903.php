@@ -1,7 +1,0 @@
-<?php
-class emptyClass {
-function emptyFunction() {
-$a = 10;
-}
-}
-?>

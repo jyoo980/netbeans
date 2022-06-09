@@ -1,3 +1,0 @@
-    public function redeclaredMethod(): void {
-                    ----------------
-HINT:Method or function "redeclaredMethod" has already been declared

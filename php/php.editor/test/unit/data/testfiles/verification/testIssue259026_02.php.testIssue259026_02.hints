@@ -1,4 +1,0 @@
-declare(strict_types=1);;
-                        -
-HINT:Empty Statement
-FIX:Remove Empty Statement

@@ -1,2 +1,0 @@
-var [, |>MARK_OCCURRENCES:pr^otocol<|, fullhost, fullpath] = parsedURL;
-console.log(|>MARK_OCCURRENCES:protocol<|); // "https"

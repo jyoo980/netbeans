@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="openide.modules" />
+    <orderEntry type="module" module-name="test21" />
+    <orderEntry type="module" module-name="openide.util.ui" />
+    <orderEntry type="module" module-name="test109" />
+    <orderEntry type="module" module-name="test106" />
+    <orderEntry type="module" module-name="openide.util" />
+    <orderEntry type="module" module-name="openide.filesystems.nb" />
+    <orderEntry type="module" module-name="test23" />
+    <orderEntry type="module" module-name="parsing.api" />
+    <orderEntry type="module" module-name="test114" />
+    <orderEntry type="module" module-name="openide.filesystems" />
+    <orderEntry type="module" module-name="test91" />
+    <orderEntry type="module" module-name="test78" />
+    <orderEntry type="module" module-name="test47" />
+    <orderEntry type="module" module-name="openide.util.lookup" />
+    <orderEntry type="module" module-name="test45" />
+    <orderEntry type="module" module-name="openide.filesystems.compat8" />
+    <orderEntry type="module" module-name="test49" />
+    <orderEntry type="module" module-name="parsing.lucene" />
+    <orderEntry type="module" module-name="projectuiapi.base" />
+    <orderEntry type="module" module-name="test20" />
+    <orderEntry type="module" module-name="openide.compat" />
+    <orderEntry type="module" module-name="test61" />
+    <orderEntry type="module" module-name="project.indexingbridge" />
+    <orderEntry type="module" module-name="test55" />
+    <orderEntry type="module" module-name="test117" />
+    <orderEntry type="module" module-name="test1" />
+    <orderEntry type="module" module-name="editor.util" />
+    <orderEntry type="module" module-name="test80" />
+    <orderEntry type="module" module-name="projectuiapi" />
+    <orderEntry type="module" module-name="projectapi" />
+    <orderEntry type="module" module-name="editor.document" />
+    <orderEntry type="module" module-name="spi.tasklist" />
+  </component>
+</module>

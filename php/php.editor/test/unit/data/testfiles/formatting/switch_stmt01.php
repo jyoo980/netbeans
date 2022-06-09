@@ -1,6 +1,0 @@
-<?php
-
-switch ($i):
-
-    endswitch;
-?>

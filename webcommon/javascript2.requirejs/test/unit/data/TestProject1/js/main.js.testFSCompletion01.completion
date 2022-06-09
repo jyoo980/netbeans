@@ -1,6 +1,0 @@
-Code completion result for source line:
-'fo|lder1/module1',
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)
-------------------------------------
-FILE       folder1                                    
-FILE       folder2                                    

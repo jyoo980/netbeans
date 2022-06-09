@@ -1,2 +1,0 @@
-class |>MARK_OCCURRENCES:Foo<| {
- * @method |>MARK_OCCURRENCES:F^oo<||Bar method() This is my cool magic method description.

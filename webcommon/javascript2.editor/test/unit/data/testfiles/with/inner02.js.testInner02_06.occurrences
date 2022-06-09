@@ -1,2 +1,0 @@
-    |>MARK_OCCURRENCES:firstName<|: "Pepa",
-    console.log(|>MARK_OCCURRENCES:firstN^ame<|);

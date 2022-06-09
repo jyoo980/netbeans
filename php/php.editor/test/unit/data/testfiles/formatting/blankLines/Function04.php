@@ -1,8 +1,0 @@
-<?php
-final class TestFianl extends Bla {
-                final function test1 () {
-}
-public function test2() {
-}
-}
-?>

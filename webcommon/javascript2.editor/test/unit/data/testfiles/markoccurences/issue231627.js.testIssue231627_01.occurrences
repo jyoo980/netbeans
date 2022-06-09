@@ -1,2 +1,0 @@
-var |>MARK_OCCURRENCES:Argum^ents<| = {};
-|>MARK_OCCURRENCES:Arguments<|.prototype.length = new Number();

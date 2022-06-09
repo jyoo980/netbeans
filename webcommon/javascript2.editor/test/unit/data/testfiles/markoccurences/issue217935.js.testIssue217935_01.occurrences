@@ -1,3 +1,0 @@
- * @param {|>MARK_OCCURRENCES:Dat^e<|} what
- * @returns {|>MARK_OCCURRENCES:Date<|} description
-    var orig = new |>MARK_OCCURRENCES:Date<|();

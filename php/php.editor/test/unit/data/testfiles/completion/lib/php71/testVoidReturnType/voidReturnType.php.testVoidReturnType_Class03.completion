@@ -1,3 +1,0 @@
-Code completion result for source line:
-public function invalidInParameter(v|oid $void): void { // class
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)

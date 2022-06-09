@@ -1,3 +1,0 @@
-function |>MARK_OCCURRENCES:Per^son<|(){
-var a = new |>MARK_OCCURRENCES:Person<|();
-var b = new |>MARK_OCCURRENCES:Person<|();

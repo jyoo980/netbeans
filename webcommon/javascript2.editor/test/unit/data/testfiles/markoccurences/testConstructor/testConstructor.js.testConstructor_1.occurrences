@@ -1,3 +1,0 @@
- * @return {|>MARK_OCCURRENCES:Address<|} address
-function |>MARK_OCCURRENCES:Ad^dress<| (street, town, country) {
-object = new |>MARK_OCCURRENCES:Address<|("V Parku", "Prague", "Czech Republic");

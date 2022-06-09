@@ -1,2 +1,0 @@
-		systemUri.replace(myPattern, function(a, protocol, |>MARK_OCCURRENCES:se^rver<|, id) {
-			address.baseUrl = protocol + |>MARK_OCCURRENCES:server<|;

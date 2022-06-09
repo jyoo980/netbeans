@@ -1,6 +1,0 @@
-Code completion result for source line:
-$.po|
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)
-------------------------------------
-METHOD     position(): Object              [PUBLIC]   <font color=#999999>jquery-api.xml</font>
-METHOD     post(url, data, success(data,   [PUBLIC]   <font color=#999999>jquery-api.xml</font>

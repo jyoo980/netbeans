@@ -1,2 +1,0 @@
-window.print("Asd")
-$("#text").

@@ -1,2 +1,0 @@
-    console.|>MARK_OCCURRENCES:log<|(firstName);
-        console.|>MARK_OCCURRENCES:lo^g<|(street);

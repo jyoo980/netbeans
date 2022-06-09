@@ -1,2 +1,0 @@
-function |>MARK_OCCURRENCES:getArr^ay<|() {
-$array6 = [...|>MARK_OCCURRENCES:getArray<|()];

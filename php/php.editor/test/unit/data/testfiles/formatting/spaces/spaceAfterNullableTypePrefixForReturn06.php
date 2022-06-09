@@ -1,6 +1,0 @@
-<?php
-class NullableType {
-public function nullableTypes():  ?  \Foo\Bar   {
-return null;
-}
-}

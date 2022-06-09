@@ -1,2 +1,0 @@
-    this.|>MARK_OCCURRENCES:description<| = {
-console.log(aaa.|>MARK_OCCURRENCES:descri^ption<|.name);

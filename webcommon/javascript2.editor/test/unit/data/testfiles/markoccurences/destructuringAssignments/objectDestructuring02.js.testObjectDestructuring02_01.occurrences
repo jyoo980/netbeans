@@ -1,3 +1,0 @@
-var a, b, |>MARK_OCCURRENCES:c<|;   
-({|>MARK_OCCURRENCES:c^<|, a, b} = {b:1, a:2});
-console.log(|>MARK_OCCURRENCES:c<|); // undefined 

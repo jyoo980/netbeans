@@ -1,2 +1,0 @@
-    public $|>MARK_OCCURRENCES:bb^bbb<|;
-        if ($a instanceof $this->|>MARK_OCCURRENCES:bbbbb<|) {}

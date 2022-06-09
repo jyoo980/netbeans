@@ -1,3 +1,0 @@
-        public static $|>MARK_OCCURRENCES:bar<|;
-            ClassName::$|>MARK_OCCURRENCES:bar<|;
-            \Foo\Bar\ClassName::$|>MARK_OCCURRENCES:b^ar<|;

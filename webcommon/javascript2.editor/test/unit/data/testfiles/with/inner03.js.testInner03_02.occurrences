@@ -1,4 +1,0 @@
-    console.|>MARK_OCCURRENCES:log<|(address);
-        console.|>MARK_OCCURRENCES:log<|(state);
-                console.|>MARK_OCCURRENCES:log<|(state);
-            console.|>MARK_OCCURRENCES:lo^g<|(street);

@@ -1,2 +1,0 @@
-/* @var $|>MARK_OCCURRENCES:test^Class<| TestClass */
- $|>MARK_OCCURRENCES:testClass<| = new TestClass();

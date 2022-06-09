@@ -1,4 +1,0 @@
-var |>MARK_OCCURRENCES:gotDepartment<| = |>MARK_OCCURRENCES:gotDepartm^ent<|;
- console.log(|>MARK_OCCURRENCES:gotDepartment<|);
- console.log(|>MARK_OCCURRENCES:gotDepartment<|());
-function |>MARK_OCCURRENCES:gotDepartment<|()

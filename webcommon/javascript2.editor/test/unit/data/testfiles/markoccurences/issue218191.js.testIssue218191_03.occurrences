@@ -1,2 +1,0 @@
-            alert(REGEXP.|>MARK_OCCURRENCES:te^st<|(value));
-                    alert(REGEXP.|>MARK_OCCURRENCES:test<|(value));

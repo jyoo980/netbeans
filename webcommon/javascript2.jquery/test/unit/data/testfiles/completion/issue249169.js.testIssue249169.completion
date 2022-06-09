@@ -1,5 +1,0 @@
-Code completion result for source line:
-if ($(":an|")) {
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)
-------------------------------------
-CALL       :animated                                  null

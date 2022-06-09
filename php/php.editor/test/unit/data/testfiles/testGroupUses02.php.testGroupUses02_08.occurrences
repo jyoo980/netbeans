@@ -1,2 +1,0 @@
-    function test AS |>MARK_OCCURRENCES:myte^st<|
-|>MARK_OCCURRENCES:mytest<|(); // test

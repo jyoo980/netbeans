@@ -1,2 +1,0 @@
-function |>MARK_OCCURRENCES:test<| () {
-|>MARK_OCCURRENCES:tes^t<|(); 

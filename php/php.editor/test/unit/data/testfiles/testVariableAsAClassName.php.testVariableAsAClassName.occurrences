@@ -1,2 +1,0 @@
-$|>MARK_OCCURRENCES:static_classname<| = "MyClsName";
-$|>MARK_OCCURRENCES:static_clas^sname<|::$static_property;

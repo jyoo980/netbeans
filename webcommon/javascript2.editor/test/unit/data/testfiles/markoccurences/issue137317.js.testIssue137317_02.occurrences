@@ -1,2 +1,0 @@
-function testik(|>MARK_OCCURRENCES:url<|) {
-        url: |>MARK_OCCURRENCES:u^rl<|

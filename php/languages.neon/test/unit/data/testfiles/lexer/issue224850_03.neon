@@ -1,2 +1,0 @@
-servicename2:
-    class: Model('\ClassA\', '\ClassB\')

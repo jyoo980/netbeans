@@ -1,5 +1,0 @@
-<html>
-{% *fil^ter* %}
-text
-{% *endfilter* %}
-</html>

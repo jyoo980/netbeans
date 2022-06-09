@@ -1,3 +1,0 @@
-    |>MARK_OCCURRENCES:truhlik<|: {
-    console.log(|>MARK_OCCURRENCES:truhlik<|);
-    var myDataVarInWith = |>MARK_OCCURRENCES:truhl^ik<|;

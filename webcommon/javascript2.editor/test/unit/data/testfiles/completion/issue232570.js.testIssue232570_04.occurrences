@@ -1,4 +1,0 @@
-function |>MARK_OCCURRENCES:Test<|(){
-|>MARK_OCCURRENCES:Test<|.modules = {};
-|>MARK_OCCURRENCES:Test<|.modules.moduleA = new function(){
-|>MARK_OCCURRENCES:Te^st<|.modules.moduleA.name;

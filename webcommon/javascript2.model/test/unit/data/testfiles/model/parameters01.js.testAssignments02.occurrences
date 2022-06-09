@@ -1,4 +1,0 @@
-var |>MARK_OCCURRENCES:body<| = "body";
-head = |>MARK_OCCURRENCES:bo^dy<|;
-|>MARK_OCCURRENCES:body<| = head;
-var text = head + |>MARK_OCCURRENCES:body<|;

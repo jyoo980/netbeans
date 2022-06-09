@@ -1,2 +1,0 @@
-    private $|>MARK_OCCURRENCES:object2<|;
-        $sql = " {$this->field1} {$this->|>MARK_OCCURRENCES:obj^ect2<|->xxx} {$this->field3['array1']} ";

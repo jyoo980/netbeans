@@ -1,3 +1,0 @@
- * @param {String} |>MARK_OCCURRENCES:co^untry<| my country
-function Address2 (street, town, |>MARK_OCCURRENCES:country<|) {
-    this.country = |>MARK_OCCURRENCES:country<|; //another line

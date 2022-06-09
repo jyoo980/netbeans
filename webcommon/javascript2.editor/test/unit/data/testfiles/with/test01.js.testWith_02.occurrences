@@ -1,2 +1,0 @@
-console.|>MARK_OCCURRENCES:log<|();
-    console.|>MARK_OCCURRENCES:l^og<|(getFirstName());

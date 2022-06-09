@@ -1,9 +1,0 @@
-<?php
-        function test () {
-    
-            foreach ( $array as $value )
-            {
-                
-            }
-}
-?>

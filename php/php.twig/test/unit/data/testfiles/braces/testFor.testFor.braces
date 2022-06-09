@@ -1,5 +1,0 @@
-<html>
-{% *f^or* %}
-text
-{% *endfor* %}
-</html>

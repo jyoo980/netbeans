@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="test66" />
+    <orderEntry type="module" module-name="test21" />
+    <orderEntry type="module" module-name="openide.util.ui" />
+    <orderEntry type="module" module-name="test93" />
+    <orderEntry type="module" module-name="openide.util" />
+    <orderEntry type="module" module-name="test48" />
+    <orderEntry type="module" module-name="openide.filesystems.nb" />
+    <orderEntry type="module" module-name="test102" />
+    <orderEntry type="module" module-name="openide.dialogs" />
+    <orderEntry type="module" module-name="test23" />
+    <orderEntry type="module" module-name="openide.options" />
+    <orderEntry type="module" module-name="editor.settings.storage" />
+    <orderEntry type="module" module-name="editor.lib" />
+    <orderEntry type="module" module-name="openide.filesystems" />
+    <orderEntry type="module" module-name="test78" />
+    <orderEntry type="module" module-name="perf" />
+    <orderEntry type="module" module-name="editor.lib2" />
+    <orderEntry type="module" module-name="openide.util.lookup" />
+    <orderEntry type="module" module-name="editor.settings.lib" />
+    <orderEntry type="module" module-name="editor.indent" />
+    <orderEntry type="module" module-name="openide.filesystems.compat8" />
+    <orderEntry type="module" module-name="unit18" />
+    <orderEntry type="module" module-name="openide.text" />
+    <orderEntry type="module" module-name="editor.settings" />
+    <orderEntry type="module" module-name="test49" />
+    <orderEntry type="module" module-name="editor" />
+    <orderEntry type="module" module-name="editor.deprecated.pre65formatting" />
+    <orderEntry type="module" module-name="openide.compat" />
+    <orderEntry type="module" module-name="lexer" />
+    <orderEntry type="module" module-name="unit10" />
+    <orderEntry type="module" module-name="openide.loaders" />
+    <orderEntry type="module" module-name="test117" />
+    <orderEntry type="module" module-name="test1" />
+    <orderEntry type="module" module-name="openide.awt" />
+    <orderEntry type="module" module-name="test80" />
+    <orderEntry type="module" module-name="test64" />
+    <orderEntry type="module" module-name="test7" />
+    <orderEntry type="module" module-name="test100" />
+  </component>
+</module>

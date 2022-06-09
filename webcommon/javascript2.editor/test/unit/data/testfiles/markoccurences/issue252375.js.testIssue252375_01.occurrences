@@ -1,2 +1,0 @@
-        var |>MARK_OCCURRENCES:xxx<| = data;
-        this.xxx = |>MARK_OCCURRENCES:x^xx<|;    // <- here is the second xxx marked as global

@@ -1,2 +1,0 @@
-for (let |>MARK_OCCURRENCES:i<| = 0; |>MARK_OCCURRENCES:i<| < 4; |>MARK_OCCURRENCES:i<|++) {
-    console.log(|>MARK_OCCURRENCES:i^<|); // number

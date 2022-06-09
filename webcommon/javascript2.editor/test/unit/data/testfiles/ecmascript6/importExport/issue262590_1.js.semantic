@@ -1,7 +1,0 @@
-export var |>GLOBAL:neco<| = {
-    
-  |>METHOD:action<|() {
-    |>GLOBAL:test<|;
-  }
-  
-}; 

@@ -1,5 +1,0 @@
-<?php
-$instance = new class { // test
-public function test() {
-}
-};

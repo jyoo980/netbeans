@@ -1,5 +1,0 @@
-<html>
-{% *san^dbox* %}
-text
-{% *endsandbox* %}
-</html>

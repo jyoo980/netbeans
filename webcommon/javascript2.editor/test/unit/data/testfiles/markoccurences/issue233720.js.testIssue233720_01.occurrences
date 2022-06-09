@@ -1,2 +1,0 @@
-        var indexOfBeta = |>MARK_OCCURRENCES:getIndexOfLatestBe^ta<|();
-    function |>MARK_OCCURRENCES:getIndexOfLatestBeta<|() { // problem here

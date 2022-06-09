@@ -1,1 +1,0 @@
-<?php LABEL: goto LABEL; ?> 

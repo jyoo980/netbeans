@@ -1,4 +1,0 @@
-    function __construct(\Bar\Baz $^foo) {
-                         -------------
-HINT:Initialize Field: $foo
-FIX:Initialize Field: $foo

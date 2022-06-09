@@ -1,2 +1,0 @@
-        scope.$watch(attr,function(|>MARK_OCCURRENCES:val<|, oldVal, scope){
-            scope[name] = |>MARK_OCCURRENCES:v^al<|;

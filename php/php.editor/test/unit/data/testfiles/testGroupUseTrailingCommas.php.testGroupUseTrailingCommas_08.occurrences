@@ -1,3 +1,0 @@
-class |>MARK_OCCURRENCES:Baz<| {
-    B\|>MARK_OCCURRENCES:Ba^z<|,
-$baz = new |>MARK_OCCURRENCES:Baz<|();

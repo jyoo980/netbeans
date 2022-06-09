@@ -1,1 +1,0 @@
-<?php echo getCusto^m($product, "homebox"); ?>

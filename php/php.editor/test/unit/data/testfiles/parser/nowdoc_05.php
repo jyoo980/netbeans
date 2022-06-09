@@ -1,6 +1,0 @@
-<?php
-
-print <<<'OMG'
-OMG;
-
-?>

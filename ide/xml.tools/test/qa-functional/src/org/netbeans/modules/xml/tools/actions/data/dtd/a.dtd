@@ -1,3 +1,0 @@
-<!ELEMENT element-a (#PCDATA)>
-<!ENTITY % b SYSTEM "dtd2/b.dtd">
-%b;

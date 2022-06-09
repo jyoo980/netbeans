@@ -1,4 +1,0 @@
-development < common:
-    database:
-        database: //myserver:1521/mydb
-        username: myuser

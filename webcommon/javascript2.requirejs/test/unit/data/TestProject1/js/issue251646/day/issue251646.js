@@ -1,3 +1,0 @@
-// comment
-
-console.log("day");

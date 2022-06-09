@@ -1,3 +1,0 @@
-Code completion result for source line:
-$a->|doesNotWorkHere();
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)

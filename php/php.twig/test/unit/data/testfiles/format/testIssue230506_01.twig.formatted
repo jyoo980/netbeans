@@ -1,9 +1,0 @@
-<div>
-    <div>
-        {% if true %}
-            var
-        {% else %}
-            foo
-        {% endif %}
-    </div>
-</div>

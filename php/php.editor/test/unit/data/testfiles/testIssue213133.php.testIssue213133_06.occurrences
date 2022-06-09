@@ -1,3 +1,0 @@
-    public static $|>MARK_OCCURRENCES:CHECK<| = "check";
-echo $test->{Test::$|>MARK_OCCURRENCES:CHECK<|};
-echo Test::$|>MARK_OCCURRENCES:CH^ECK<|;

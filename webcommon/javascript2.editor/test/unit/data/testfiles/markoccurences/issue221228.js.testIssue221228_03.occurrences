@@ -1,2 +1,0 @@
-    function |>MARK_OCCURRENCES:h^i<|() { // private function
-        |>MARK_OCCURRENCES:hi<|();           // uses private function

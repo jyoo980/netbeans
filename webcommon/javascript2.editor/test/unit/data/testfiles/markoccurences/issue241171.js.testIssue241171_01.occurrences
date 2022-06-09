@@ -1,3 +1,0 @@
-        this.pager.on('empty', this.|>MARK_OCCURRENCES:welco^me<|, this);
-    Editor.prototype.|>MARK_OCCURRENCES:welcome<| = function () {
-    editor.|>MARK_OCCURRENCES:welcome<|();

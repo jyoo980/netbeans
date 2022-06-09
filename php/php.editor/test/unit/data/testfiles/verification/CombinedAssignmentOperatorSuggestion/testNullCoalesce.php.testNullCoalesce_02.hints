@@ -1,4 +1,0 @@
-$test = $test ?? getDefau^ltValue();
------------------------------------
-HINT:You can use combined assignment operator
-FIX:Use Combined Assignment Operator"??="

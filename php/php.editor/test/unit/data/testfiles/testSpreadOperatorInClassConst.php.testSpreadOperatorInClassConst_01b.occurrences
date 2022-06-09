@@ -1,3 +1,0 @@
-const |>MARK_OCCURRENCES:F_CONST<| = "test";
-use const \Foo\|>MARK_OCCURRENCES:F_CONST<|;
-    private const CONST4 = [...|>MARK_OCCURRENCES:F_CON^ST<|];

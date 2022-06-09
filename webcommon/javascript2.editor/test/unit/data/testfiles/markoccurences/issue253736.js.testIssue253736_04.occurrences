@@ -1,2 +1,0 @@
-	this.parse = function (|>MARK_OCCURRENCES:systemUri<|) {
-		|>MARK_OCCURRENCES:syste^mUri<|.replace(myPattern, function(a, protocol, server, id) {

@@ -1,5 +1,0 @@
-<?php
-switch ($variable):^
-endswitch;
-
-?>

@@ -1,4 +1,0 @@
-            return $test^ + $param;
-----------------------------------
-HINT:You can use arrow function
-FIX:Use Arrow Function

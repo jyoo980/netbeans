@@ -1,3 +1,0 @@
-    class |>MARK_OCCURRENCES:Class^Name<| {
-use \Foo\Bar\|>MARK_OCCURRENCES:ClassName<|;
-            new |>MARK_OCCURRENCES:ClassName<|();

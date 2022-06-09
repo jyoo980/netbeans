@@ -1,4 +1,0 @@
-function($param1) use ($variable1): ?^int { // 02
-------------------------------------------------
-HINT:You can use arrow function
-FIX:Use Arrow Function

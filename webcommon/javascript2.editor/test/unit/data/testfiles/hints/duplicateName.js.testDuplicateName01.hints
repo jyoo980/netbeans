@@ -1,6 +1,0 @@
-    'property1' : 4,
-     ---------
-HINT:Duplicate name of property "property1".
-        property3 : 4
-        ---------
-HINT:Duplicate name of property "property3".

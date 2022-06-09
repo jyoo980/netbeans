@@ -1,2 +1,0 @@
-var |>MARK_OCCURRENCES:g^<| = gen01();
-var d = |>MARK_OCCURRENCES:g<|.next().v

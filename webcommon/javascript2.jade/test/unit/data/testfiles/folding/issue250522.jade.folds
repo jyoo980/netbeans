@@ -1,9 +1,0 @@
-+ mixin displayLink(templateName, isImplemented)
-+     div
-|     -if (isImplemented) {
-|         
-|     -}
-|     -else {
-| 
--     -}
-  div neco

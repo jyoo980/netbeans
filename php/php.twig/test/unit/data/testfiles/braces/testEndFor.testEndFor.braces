@@ -1,5 +1,0 @@
-<html>
-{% *for* %}
-text
-{% *end^for* %}
-</html>

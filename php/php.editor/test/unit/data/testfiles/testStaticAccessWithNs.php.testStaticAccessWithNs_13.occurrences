@@ -1,3 +1,0 @@
-        public static $|>MARK_OCCURRENCES:foo<|;
-            Omg\AliasedClassName::$|>MARK_OCCURRENCES:f^oo<|;
-            Cls::$|>MARK_OCCURRENCES:foo<|;

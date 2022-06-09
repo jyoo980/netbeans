@@ -1,3 +1,0 @@
-define([
-    'base.dt/'
-], function () {});

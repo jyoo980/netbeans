@@ -1,3 +1,0 @@
-    function _on(|>MARK_OCCURRENCES:evtId<|, handler) {
-        var handlers = _events[|>MARK_OCCURRENCES:evtId<|];
-            _events[|>MARK_OCCURRENCES:ev^tId<|] = handlers = []; // <-- related line

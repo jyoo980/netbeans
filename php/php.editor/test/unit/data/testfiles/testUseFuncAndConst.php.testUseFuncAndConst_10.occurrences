@@ -1,2 +1,0 @@
-use function Name\Space\fnc as |>MARK_OCCURRENCES:fnc2<|;
-|>MARK_OCCURRENCES:f^nc2<|();

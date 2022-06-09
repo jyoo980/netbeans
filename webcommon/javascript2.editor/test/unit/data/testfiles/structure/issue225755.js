@@ -1,1 +1,0 @@
-name1.name2.obj = {x:5};

@@ -1,2 +1,0 @@
-var |>MARK_OCCURRENCES:Per^son<| = Class.create({
-var person = new |>MARK_OCCURRENCES:Person<|();

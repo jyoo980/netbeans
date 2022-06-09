@@ -1,3 +1,0 @@
-    var |>MARK_OCCURRENCES:_events<|;
-        var handlers = |>MARK_OCCURRENCES:_events<|[evtId];
-            |>MARK_OCCURRENCES:_eve^nts<|[evtId] = handlers = []; // <-- related line

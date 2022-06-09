@@ -1,2 +1,0 @@
-'StaticAvatarCtrl';
-herobox({main:true});

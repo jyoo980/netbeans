@@ -1,2 +1,0 @@
-    |>MARK_OCCURRENCES:street<|: "Kolesa",
-        console.log(|>MARK_OCCURRENCES:st^reet<|);

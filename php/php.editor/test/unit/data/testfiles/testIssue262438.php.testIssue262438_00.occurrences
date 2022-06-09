@@ -1,3 +1,0 @@
-use MyVendor\PackageThree\|>MARK_OCCURRENCES:MyIface<|;
-class MyClass implements |>MARK_OCCURRENCES:MyIface<| {
-interface |>MARK_OCCURRENCES:MyIf^ace<| {

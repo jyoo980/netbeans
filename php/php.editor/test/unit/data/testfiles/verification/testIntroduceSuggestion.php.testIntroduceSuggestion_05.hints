@@ -1,4 +1,0 @@
-Omg::stMeth();^
--------------
-HINT:Introduce Hint
-FIX:Create Method " stMeth()" in Class "Omg" (testIntroduceSuggestion.php)

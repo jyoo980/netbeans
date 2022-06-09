@@ -1,5 +1,0 @@
-        |>MARK_OCCURRENCES:conso^le<|.log(getDate());
-    |>MARK_OCCURRENCES:console<|.log(this.den.getDate());
-        |>MARK_OCCURRENCES:console<|.log(run());
-    window.|>MARK_OCCURRENCES:console<|.log(arr);
-    this.run = function (){|>MARK_OCCURRENCES:console<|.log("vrr");};

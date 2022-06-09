@@ -1,2 +1,0 @@
-    |>MARK_OCCURRENCES:street<|: "haha",
-console.log(address.|>MARK_OCCURRENCES:stree^t<|);

@@ -1,3 +1,0 @@
-  this.|>MARK_OCCURRENCES:run<| = function() {
-wrapper.pers.|>MARK_OCCURRENCES:ru^n<|(); // place cursor here to inside run
-per.|>MARK_OCCURRENCES:run<|();

@@ -1,2 +1,0 @@
-    var mon_yr = getInputValue(document.form1.mon_yr), |>MARK_OCCURRENCES:period<| = getInputValue(document.form1.period);
-        period: |>MARK_OCCURRENCES:peri^od<|

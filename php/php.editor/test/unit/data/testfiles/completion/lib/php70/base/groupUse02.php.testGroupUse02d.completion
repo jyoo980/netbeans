@@ -1,7 +1,0 @@
-Code completion result for source line:
-B\|ClsAB,
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)
-------------------------------------
-PACKAGE    C                               [PUBLIC]   A\B
-CLASS      ClsAB                           [PUBLIC]   A\B
-CLASS      ClsAB                           [PUBLIC]   A\B

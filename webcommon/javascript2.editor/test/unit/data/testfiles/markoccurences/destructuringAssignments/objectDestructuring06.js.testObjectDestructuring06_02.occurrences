@@ -1,2 +1,0 @@
-var {a:|>MARK_OCCURRENCES:a^b<|=10, bb=5} = {a: 3}; 
-console.log(|>MARK_OCCURRENCES:ab<|); // 3

@@ -1,3 +1,0 @@
-   const |>MARK_OCCURRENCES:test^Constant<| = "test";
-      $variable = self::|>MARK_OCCURRENCES:testConstant<|;
-         echo self::|>MARK_OCCURRENCES:testConstant<|;

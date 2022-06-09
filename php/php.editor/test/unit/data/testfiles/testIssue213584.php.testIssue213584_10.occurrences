@@ -1,3 +1,0 @@
-trait |>MARK_OCCURRENCES:AA<| {
-    use |>MARK_OCCURRENCES:AA<|, BB, CC, DD {
-        CC::bar insteadof |>MARK_OCCURRENCES:A^A<|, BB;

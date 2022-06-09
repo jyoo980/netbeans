@@ -1,4 +1,0 @@
- function getBar() {
-return $$this->bar;
-}
-

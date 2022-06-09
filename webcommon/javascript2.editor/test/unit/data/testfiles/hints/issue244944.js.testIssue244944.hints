@@ -1,3 +1,0 @@
-        throw new TypeError("Provided place for '" + identifier + "' is not a valid option. ")
-                                                                                             -
-HINT:Expected semicolon ; after ")".

@@ -1,1 +1,0 @@
-export var text = "ahoj";

@@ -1,5 +1,0 @@
-Code completion result for source line:
-import member f|
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)
-------------------------------------
-KEYWORD    from                                       ECMAScript 6 - 2015

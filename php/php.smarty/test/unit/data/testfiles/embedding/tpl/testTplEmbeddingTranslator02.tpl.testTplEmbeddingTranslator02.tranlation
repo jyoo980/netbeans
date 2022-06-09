@@ -1,4 +1,0 @@
-
-function testFunc() {
-    var test = __UNKNOWN__;
-}

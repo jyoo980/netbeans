@@ -1,3 +1,0 @@
-        var |>MARK_OCCURRENCES:r<| = "";
-            |>MARK_OCCURRENCES:r<| = |>MARK_OCCURRENCES:r^<| + array[i];
-        return |>MARK_OCCURRENCES:r<|;

@@ -1,1 +1,0 @@
-var stylizeDisplayName = function(|>MARK_OCCURRENCES:display^name<|, column, record) {

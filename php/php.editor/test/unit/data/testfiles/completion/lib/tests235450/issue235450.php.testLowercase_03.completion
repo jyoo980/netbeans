@@ -1,5 +1,0 @@
-Code completion result for source line:
-$b = fal|se;
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)
-------------------------------------
-CONSTANT   FALSE false                     [PUBLIC]   constants.php

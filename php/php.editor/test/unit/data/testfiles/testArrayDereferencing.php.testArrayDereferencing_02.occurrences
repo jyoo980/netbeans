@@ -1,2 +1,0 @@
-    public $|>MARK_OCCURRENCES:field<|;
-$myClass->|>MARK_OCCURRENCES:fie^ld<|[0]->getArray()[][]->foo();

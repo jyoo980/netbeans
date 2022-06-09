@@ -1,2 +1,0 @@
-    const |>MARK_OCCURRENCES:PARENT_CONST<| = 'PARENT_CONST';
-            echo parent::|>MARK_OCCURRENCES:PAR^ENT_CONST<| . PHP_EOL;

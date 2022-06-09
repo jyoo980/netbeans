@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="svn_workingcopy_sample_data">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ide/subversion/test/unit/data/svn_workingcopy_sample_data.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

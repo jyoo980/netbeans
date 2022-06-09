@@ -1,2 +1,0 @@
-trait |>MARK_OCCURRENCES:SomeTrait<| {
-    use |>MARK_OCCURRENCES:Some^Trait<|;

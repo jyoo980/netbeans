@@ -1,4 +1,0 @@
-namespace FirstNs\WrongNs;
-          ---------------
-HINT:PSR-0 Violation:
-Namespace declaration name doesn't correspond to current directory structure.

@@ -1,5 +1,0 @@
-Code completion result for source line:
-private readonly arr|ay $promotedPrivateReadonly = [],
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)
-------------------------------------
-KEYWORD    array                                      null

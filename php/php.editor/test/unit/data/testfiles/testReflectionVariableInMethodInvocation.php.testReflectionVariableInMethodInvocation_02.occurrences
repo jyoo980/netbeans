@@ -1,2 +1,0 @@
-    private $|>MARK_OCCURRENCES:context<|;
-        $this->{"context".$this->|>MARK_OCCURRENCES:cont^ext<|[0]}();

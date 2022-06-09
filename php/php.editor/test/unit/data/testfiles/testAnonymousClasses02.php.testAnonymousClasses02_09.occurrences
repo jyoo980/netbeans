@@ -1,2 +1,0 @@
-    public function __construct($|>MARK_OCCURRENCES:num<|) {
-        $this->num = $|>MARK_OCCURRENCES:nu^m<|;

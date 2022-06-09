@@ -1,5 +1,0 @@
-<?php
-    class MyClass {
-        function foo():\Company\MyClass{
-        }
-    }

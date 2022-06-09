@@ -1,3 +1,0 @@
-$|>MARK_OCCURRENCES:name<| = "test";
-    global $|>MARK_OCCURRENCES:name<|;
-    echo $|>MARK_OCCURRENCES:na^me<|;

@@ -1,3 +1,0 @@
-class |>MARK_OCCURRENCES:Cls^AB<| {
-    B\|>MARK_OCCURRENCES:ClsAB<|,
-$ab = new |>MARK_OCCURRENCES:ClsAB<|();

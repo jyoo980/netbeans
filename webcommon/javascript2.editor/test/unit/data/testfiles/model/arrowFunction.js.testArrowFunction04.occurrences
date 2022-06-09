@@ -1,2 +1,0 @@
-(a, ^|>MARK_OCCURRENCES:b<|) => {
-    a + |>MARK_OCCURRENCES:b<| + `test ${a + |>MARK_OCCURRENCES:b<|}`;

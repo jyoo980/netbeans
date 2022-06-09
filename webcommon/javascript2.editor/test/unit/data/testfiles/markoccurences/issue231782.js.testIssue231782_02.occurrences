@@ -1,2 +1,0 @@
-            var d = this.|>MARK_OCCURRENCES:options<|.debug;
-console.log(Test.|>MARK_OCCURRENCES:opt^ions<|.debug);

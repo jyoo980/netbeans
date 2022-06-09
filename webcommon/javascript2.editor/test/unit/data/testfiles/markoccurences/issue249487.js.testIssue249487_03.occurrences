@@ -1,2 +1,0 @@
-var |>MARK_OCCURRENCES:test<| = new TestCls();
-console.log(|>MARK_OCCURRENCES:te^st<|.iArg);

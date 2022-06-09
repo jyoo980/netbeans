@@ -1,3 +1,0 @@
- * @param {String} |>MARK_OCCURRENCES:street<| my street
-function Address2 (|>MARK_OCCURRENCES:street<|, town, country) {
-    this.street = |>MARK_OCCURRENCES:stre^et<|; //another line

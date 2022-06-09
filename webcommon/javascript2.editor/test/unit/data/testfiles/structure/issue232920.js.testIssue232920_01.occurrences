@@ -1,2 +1,0 @@
-MyCtx.|>MARK_OCCURRENCES:Auto<| = function() {
-var aaa = new MyCtx.|>MARK_OCCURRENCES:A^uto<|();

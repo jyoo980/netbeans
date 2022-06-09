@@ -1,2 +1,0 @@
-var {p: foo, q: |>MARK_OCCURRENCES:b^ar<|, w: abc} = {p: 5, q:7};     
-console.log(|>MARK_OCCURRENCES:bar<|); // 7  

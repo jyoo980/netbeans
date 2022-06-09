@@ -1,7 +1,0 @@
-{
-    "scripts": {
-        "start": "node server\/server.js",
-        "postinstall": "node node_modules/bower/bin/bower install"
-    },
-    "name": "MessagesKnockout"
-}

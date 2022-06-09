@@ -1,5 +1,0 @@
-Code completion result for source line:
-readon|ly public string $readonlyPublic;
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)
-------------------------------------
-KEYWORD    readonly                                   null

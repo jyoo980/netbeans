@@ -1,9 +1,0 @@
-<html>
-{*if* true }
-text
-{*elseif* true}
-text
-{*el^se*}
-text
-{*/if*}
-</html>

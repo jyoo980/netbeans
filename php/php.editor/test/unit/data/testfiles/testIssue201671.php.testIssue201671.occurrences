@@ -1,2 +1,0 @@
-foreach ($array as $|>MARK_OCCURRENCES:my^Key<| => $myValue) {
-    $foo->$|>MARK_OCCURRENCES:myKey<| = $myValue;

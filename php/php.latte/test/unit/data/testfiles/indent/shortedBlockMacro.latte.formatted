@@ -1,4 +1,0 @@
-<div class="control-group odd">
-    {label mcc, class => "control-label" /}
-    <div class="controls">{input mcc, class => text}</div>
-</div>

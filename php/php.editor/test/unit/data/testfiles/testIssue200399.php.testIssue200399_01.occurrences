@@ -1,3 +1,0 @@
-class |>MARK_OCCURRENCES:Manager<| {
-     * @param \Character\|>MARK_OCCURRENCES:Manager<| $param
-    function functionName(\Character\|>MARK_OCCURRENCES:Ma^nager<| $param) {

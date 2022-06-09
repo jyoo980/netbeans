@@ -1,9 +1,0 @@
-<?php
-
-class Test3 {
-
-    private function testMethod3()
-    {
-        
-    }
-}

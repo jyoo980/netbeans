@@ -1,6 +1,0 @@
-Code completion result for source line:
-require("./complexModule").literalRef.propX.|iprop;
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)
-------------------------------------
-FIELD      iprop2: Number                  [PUBLIC]   complexModule.js
-FIELD      iprop: Number                   [PUBLIC]   complexModule.js

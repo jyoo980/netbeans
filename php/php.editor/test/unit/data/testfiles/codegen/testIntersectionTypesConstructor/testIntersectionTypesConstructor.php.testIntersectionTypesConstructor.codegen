@@ -1,5 +1,0 @@
-public function __construct(Foo&Bar $fooBar, Foo&Bar&Baz $fooBarBaz, Foo $foo) {
-$$this->fooBar = $fooBar;
-$$this->fooBarBaz = $fooBarBaz;
-$$this->foo = $foo;${cursor}
-}

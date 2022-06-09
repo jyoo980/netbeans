@@ -1,2 +1,0 @@
-foo.|>MARK_OCCURRENCES:bar<| = test;
-foo.|>MARK_OCCURRENCES:b^ar<|();

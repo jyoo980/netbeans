@@ -1,6 +1,0 @@
-var |>GLOBAL:a<| = {
-    "|>METHOD:in<|": function() {
-    }
-};
-
-|>GLOBAL:a<|.in();

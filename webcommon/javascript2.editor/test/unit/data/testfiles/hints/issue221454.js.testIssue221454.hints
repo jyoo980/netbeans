@@ -1,2 +1,0 @@
-setTimeout(function() {console.log('Hi')}, 500);                                        -
-HINT:Expected semicolon ; after ")".

@@ -1,2 +1,0 @@
- * @param Book $|>MARK_OCCURRENCES:he^llo<|
-function test($|>MARK_OCCURRENCES:hello<|) {//function

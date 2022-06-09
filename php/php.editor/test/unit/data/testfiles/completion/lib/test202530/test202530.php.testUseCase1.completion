@@ -1,6 +1,0 @@
-Code completion result for source line:
-$test->|
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)
-METHOD     blah($whatever = null)          [PUBLIC]   TestMethod
-METHOD     blah()                          [PUBLIC]   TestMethod
-METHOD     foo(string $myStr)              [PUBLIC]   TestMethod

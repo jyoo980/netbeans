@@ -1,2 +1,0 @@
-        for( var |>MARK_OCCURRENCES:i<| = 0; |>MARK_OCCURRENCES:i<| < array.length; |>MARK_OCCURRENCES:i<|++ ) {
-            r = r + array[|>MARK_OCCURRENCES:i^<|];

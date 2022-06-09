@@ -1,3 +1,0 @@
-    var |>MARK_OCCURRENCES:ugaVarName<| = "ga";
-    var uga = window[|>MARK_OCCURRENCES:ugaVarName<|];
-        window[|>MARK_OCCURRENCES:ugaV^arName<|] = uga;

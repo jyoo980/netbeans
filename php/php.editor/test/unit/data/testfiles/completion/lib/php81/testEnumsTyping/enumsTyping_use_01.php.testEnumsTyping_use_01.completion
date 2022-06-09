@@ -1,6 +1,0 @@
-Code completion result for source line:
-use Enum1\|
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)
-------------------------------------
-CLASS      Simple                          [PUBLIC]   Enum1
-CLASS      TestTrait                       [PUBLIC]   Enum1

@@ -1,4 +1,0 @@
-function($x, ...$reset) use ^($y) {
-----------------------------------
-HINT:You can use arrow function
-FIX:Use Arrow Function

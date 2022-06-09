@@ -1,5 +1,0 @@
-<html>
-{*if^Current*}
-text
-{*/ifCurrent*}
-</html>

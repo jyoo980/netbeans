@@ -1,7 +1,0 @@
-<html>
-{% *if* true %}
-text
-{% *el^se* %}
-text
-{% *endif* %}
-</html>

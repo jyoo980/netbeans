@@ -1,2 +1,0 @@
-var |>MARK_OCCURRENCES:a^a<| = function bb () {           // <- place caret in aa word
-|>MARK_OCCURRENCES:aa<|();

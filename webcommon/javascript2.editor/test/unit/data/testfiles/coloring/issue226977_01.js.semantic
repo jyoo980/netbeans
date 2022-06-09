@@ -1,4 +1,0 @@
-|>GLOBAL:$<|("#id").on("click", function () {
-  var |>CLASS:user<| = {};
-  fooBar(function () { user.|>FIELD:password<| = false; });
-});

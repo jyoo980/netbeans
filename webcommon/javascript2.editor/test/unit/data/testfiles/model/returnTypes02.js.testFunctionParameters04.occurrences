@@ -1,3 +1,0 @@
-    function Address (streetp, townp, |>MARK_OCCURRENCES:zipp<|) {
-            zip = |>MARK_OCCURRENCES:zi^pp<|;
-            return |>MARK_OCCURRENCES:zipp<|;

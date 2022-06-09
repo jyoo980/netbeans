@@ -1,3 +1,0 @@
-var |>MARK_OCCURRENCES:foo<| = function () { return 0; }
-console.log(|>MARK_OCCURRENCES:f^oo<|());         // 0
-console.log(|>MARK_OCCURRENCES:foo<|());         // 0

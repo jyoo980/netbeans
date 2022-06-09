@@ -1,3 +1,0 @@
-function |>MARK_OCCURRENCES:Cube<|() {
-|>MARK_OCCURRENCES:Cub^e<|.prototype.foo = test;
-var cube = new |>MARK_OCCURRENCES:Cube<|();

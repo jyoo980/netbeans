@@ -1,2 +1,0 @@
-var [one, |>MARK_OCCURRENCES:tw^o<|, three] = foo;
-console.log(|>MARK_OCCURRENCES:two<|); // "two"

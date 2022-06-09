@@ -1,4 +1,0 @@
-$foo->method();^
---------------
-HINT:Introduce Hint
-FIX:Create Method " method()" in Class "Omg" (testIntroduceSuggestion.php)

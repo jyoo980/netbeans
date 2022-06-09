@@ -1,2 +1,0 @@
-    var |>MARK_OCCURRENCES:varName<| = "dummy";
-    (window[|>MARK_OCCURRENCES:varN^ame<|].q = window[|>MARK_OCCURRENCES:varName<|].q || []);

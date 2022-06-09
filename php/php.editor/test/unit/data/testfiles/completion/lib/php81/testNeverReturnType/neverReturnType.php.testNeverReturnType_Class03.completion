@@ -1,3 +1,0 @@
-Code completion result for source line:
-public function invalidInParameter(ne|ver $never): never { // class
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)

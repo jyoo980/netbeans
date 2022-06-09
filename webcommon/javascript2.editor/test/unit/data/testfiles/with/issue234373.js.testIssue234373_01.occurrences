@@ -1,2 +1,0 @@
-        |>MARK_OCCURRENCES:pl^ay<|(); //Here
-    this.|>MARK_OCCURRENCES:play<| = function() {

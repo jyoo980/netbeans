@@ -1,4 +1,0 @@
-$test = $tes^t ?? "test";
-------------------------
-HINT:You can use combined assignment operator
-FIX:Use Combined Assignment Operator"??="

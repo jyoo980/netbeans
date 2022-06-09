@@ -1,2 +1,0 @@
-var {|>MARK_OCCURRENCES:p^<|, q} = o;
-console.log(|>MARK_OCCURRENCES:p<|); // 42

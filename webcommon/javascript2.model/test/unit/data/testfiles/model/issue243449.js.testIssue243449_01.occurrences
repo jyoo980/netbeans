@@ -1,2 +1,0 @@
-function |>MARK_OCCURRENCES:f3<| (p) {
-    p.x = |>MARK_OCCURRENCES:f^3<|;

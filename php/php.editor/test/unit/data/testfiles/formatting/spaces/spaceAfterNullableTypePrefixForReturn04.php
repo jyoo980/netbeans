@@ -1,6 +1,0 @@
-<?php
-class NullableType {
-public function nullableTypes():?int{
-return null;
-}
-}

@@ -1,2 +1,0 @@
-        function |>MARK_OCCURRENCES:foo<|() {
-        console.log(|>MARK_OCCURRENCES:f^oo<|()); // 2

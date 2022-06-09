@@ -1,9 +1,0 @@
-<html>
-{*ifset* true }
-text
-{*elseifset* true}
-text
-{*el^se*}
-text
-{*/ifset*}
-</html>

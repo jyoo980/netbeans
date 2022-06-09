@@ -1,4 +1,0 @@
-var |>METHOD:x<| = |>UNUSED:y<| => 56 + "test";
-
-(a,b,|>UNUSED:c<|) => a + b;
-

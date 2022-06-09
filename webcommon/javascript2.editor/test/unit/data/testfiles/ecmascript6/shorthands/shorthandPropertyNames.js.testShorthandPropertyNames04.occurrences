@@ -1,2 +1,0 @@
-        |>MARK_OCCURRENCES:second<|: "2th"
-console.log(o.c.|>MARK_OCCURRENCES:sec^ond<|);    // 2th

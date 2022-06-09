@@ -1,4 +1,0 @@
-    var |>MARK_OCCURRENCES:lay^out<|;
-            if (|>MARK_OCCURRENCES:layout<|) {
-                |>MARK_OCCURRENCES:layout<|.destroy();
-                |>MARK_OCCURRENCES:layout<| = null;

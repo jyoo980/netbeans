@@ -1,5 +1,0 @@
-Code completion result for source line:
-ParentSe::staticFnc()->|; //cc parentFnc, staticFnc
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)
-METHOD     parentFnc()                     [PUBLIC]   ParentSe
-METHOD     staticFnc()                     [STATIC]   ParentSe

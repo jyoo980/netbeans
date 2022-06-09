@@ -1,1 +1,0 @@
-The testing file can not be edited in NetBeans due to trailing spaces. It's important to keep spaces on the empty lines.

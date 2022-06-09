@@ -1,3 +1,0 @@
-class |>MARK_OCCURRENCES:MyA<| {}
-    |>MARK_OCCURRENCES:M^yA<|,
-new |>MARK_OCCURRENCES:MyA<|();

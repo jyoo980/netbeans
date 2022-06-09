@@ -1,4 +1,0 @@
- function getBarBaz() {
-return $$this->barBaz;
-}
-

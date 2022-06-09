@@ -1,3 +1,0 @@
-        var |>MARK_OCCURRENCES:js^on<| = "data=" + angular.toJson($scope.servos);
-            data: |>MARK_OCCURRENCES:json<|,  
-            headers: {'Content-Type': 'multipart/form-data, boundary=' + |>MARK_OCCURRENCES:json<|.length + '; charset=UTF-8'}

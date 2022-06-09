@@ -1,6 +1,0 @@
-<?php
-trait trait_name { // test
-public function test() {
-}
-}
-?>

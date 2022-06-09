@@ -1,3 +1,0 @@
-        this.|>MARK_OCCURRENCES:pag^er<|.on('empty', this.welcome, this);
-        this.|>MARK_OCCURRENCES:pager<|.on('selected', this.openPage, this);
-        $('.project-drawer-inner').append(this.|>MARK_OCCURRENCES:pager<|.el);

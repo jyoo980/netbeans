@@ -1,3 +1,0 @@
-class |>MARK_OCCURRENCES:TestClass<| {}
-/* @var $testClass |>MARK_OCCURRENCES:Test^Class<| */
- $testClass = new |>MARK_OCCURRENCES:TestClass<|();

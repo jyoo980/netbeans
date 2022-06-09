@@ -1,5 +1,0 @@
-Code completion result for source line:
-private const CONST4 = [...F|_CONST];
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)
-PACKAGE    Foo                             [PUBLIC]   null
-CONSTANT   F_CONST "test"                  [PUBLIC]   Foo

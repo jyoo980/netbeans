@@ -1,3 +1,0 @@
-    const |>MARK_OCCURRENCES:CONSTANT2<| = self::CASE2;
-        self::|>MARK_OCCURRENCES:CONSTAN^T2<|;
-        static::|>MARK_OCCURRENCES:CONSTANT2<|;

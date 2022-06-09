@@ -1,3 +1,0 @@
- * @method static ^|>MARK_OCCURRENCES:staticTestVoid<|(Test $test) test comment
-        self::|>MARK_OCCURRENCES:staticTestVoid<|($test);
-Example::|>MARK_OCCURRENCES:staticTestVoid<|($test);

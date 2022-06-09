@@ -1,6 +1,0 @@
-function |>METHOD:testik<|(url) {
-    var |>CLASS:od<| = {
-        |>FIELD:url<|: url
-    };
-    alert(od.|>FIELD:url<|)
-}

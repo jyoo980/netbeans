@@ -1,1 +1,0 @@
-var {|>MARK_OCCURRENCES:p^<|: foo, q: bar, w: abc} = {|>MARK_OCCURRENCES:p<|: 5, q:7};     

@@ -1,2 +1,0 @@
-    |>MARK_OCCURRENCES:prop01<|: "ahoj",
-    |>MARK_OCCURRENCES:p^rop01<| = |>MARK_OCCURRENCES:prop01<| + prop02;

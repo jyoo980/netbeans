@@ -1,4 +1,0 @@
-    self.chartTest = test.baf();
-                     ----
-HINT:The global variable "test" is not declared.
-FIX:Generate JsHint global directive for variable test

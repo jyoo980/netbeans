@@ -1,4 +1,0 @@
-new class {};^
--------------
-HINT:Introduce Variable
-FIX:Assign Return Value To New Variable

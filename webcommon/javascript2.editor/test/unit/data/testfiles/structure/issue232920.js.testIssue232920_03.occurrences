@@ -1,2 +1,0 @@
-        |>MARK_OCCURRENCES:name<|: "Skoda"
-console.log(aaa.description.|>MARK_OCCURRENCES:na^me<|);

@@ -1,3 +1,0 @@
-    |>MARK_OCCURRENCES:getName<|: function() {
-    |>MARK_OCCURRENCES:getName<|();
-A.|>MARK_OCCURRENCES:getN^ame<|();

@@ -1,3 +1,0 @@
-        const |>MARK_OCCURRENCES:FOO<| = 1;
-            Omg\AliasedClassName::|>MARK_OCCURRENCES:FOO<|;
-            Cls::|>MARK_OCCURRENCES:F^OO<|;

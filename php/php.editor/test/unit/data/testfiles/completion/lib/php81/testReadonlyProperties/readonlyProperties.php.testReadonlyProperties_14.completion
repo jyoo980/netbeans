@@ -1,6 +1,0 @@
-Code completion result for source line:
-public reado|nly int|string $promotedPublicReadonly = 0,
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)
-CLASS      ReadonlyProperties              [PUBLIC]   readonlyProperties.php
-------------------------------------
-KEYWORD    readonly                                   null

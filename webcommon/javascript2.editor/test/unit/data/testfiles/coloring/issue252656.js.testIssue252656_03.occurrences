@@ -1,2 +1,0 @@
-    var uga = |>MARK_OCCURRENCES:window<|[ugaVarName];
-        |>MARK_OCCURRENCES:wi^ndow<|[ugaVarName] = uga;

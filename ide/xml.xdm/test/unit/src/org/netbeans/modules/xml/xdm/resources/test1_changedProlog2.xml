@@ -1,5 +1,0 @@
-<?xml version="1.0"      encoding="UTF-8"?>
-<test xmlns="http://www.test.com/TestModel" targetNamespace='foo'>
-    <a index='1' foo='bar'></a>
-    <b index='2'></b>
-</test>

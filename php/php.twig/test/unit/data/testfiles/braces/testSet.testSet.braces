@@ -1,5 +1,0 @@
-<html>
-{% *s^et* %}
-text
-{% *endset* %}
-</html>

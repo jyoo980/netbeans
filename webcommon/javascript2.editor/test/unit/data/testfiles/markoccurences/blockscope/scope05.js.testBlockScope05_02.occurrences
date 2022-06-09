@@ -1,3 +1,0 @@
-function resolveDay(|>MARK_OCCURRENCES:day<|, index, days, action) {
-    for (var i = 0, max = |>MARK_OCCURRENCES:day<|; i < max; i++) {
-            console.log("day: " + |>MARK_OCCURRENCES:d^ay<|);     

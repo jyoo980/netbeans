@@ -1,6 +1,0 @@
-Code completion result for source line:
-this.|types;
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)
-------------------------------------
-METHOD     addType(type): undefined        [PUBLIC]   issue229717.js
-FIELD      types: Array                    [PUBLIC]   issue229717.js

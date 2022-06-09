@@ -1,4 +1,0 @@
-<?php
-    interface MyIface {
-        function foo()    :      MyClass     ;
-    }

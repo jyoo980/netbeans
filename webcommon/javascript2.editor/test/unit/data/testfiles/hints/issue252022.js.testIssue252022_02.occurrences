@@ -1,3 +1,0 @@
-        |>MARK_OCCURRENCES:fn^2<|().toLowerCase();  // test
-        |>MARK_OCCURRENCES:fn2<|().toLowerCase();
-    function |>MARK_OCCURRENCES:fn2<|() {

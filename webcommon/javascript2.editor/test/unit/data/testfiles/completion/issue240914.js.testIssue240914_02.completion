@@ -1,6 +1,0 @@
-Code completion result for source line:
-.|name);
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)
-------------------------------------
-FIELD      age: Number                     [PUBLIC]   issue240914.js
-FIELD      name: String                    [PUBLIC]   issue240914.js

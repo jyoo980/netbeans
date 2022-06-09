@@ -1,2 +1,0 @@
-    |>MARK_OCCURRENCES:city<| = "Prague";
-pavel.address.|>MARK_OCCURRENCES:cit^y<| = "Praha";

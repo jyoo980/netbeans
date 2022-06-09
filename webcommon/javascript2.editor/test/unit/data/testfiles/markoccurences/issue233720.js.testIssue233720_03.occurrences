@@ -1,3 +1,0 @@
-        return this.|>MARK_OCCURRENCES:myMet^hod2<|();
-    |>MARK_OCCURRENCES:myMethod2<| : function () {
-        return |>MARK_OCCURRENCES:myMethod2<|();

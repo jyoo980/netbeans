@@ -1,2 +1,0 @@
-interface |>MARK_OCCURRENCES:Log^ger<| {
-use api\|>MARK_OCCURRENCES:Logger<| as MyLogger;

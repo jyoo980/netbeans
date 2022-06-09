@@ -1,2 +1,0 @@
-  constructor(|>MARK_OCCURRENCES:height<|, width) {
-    this.height = |>MARK_OCCURRENCES:hei^ght<|;

@@ -1,2 +1,0 @@
-MyLib.|>MARK_OCCURRENCES:ObjB<| = function (arg) {
-    return new MyLib.|>MARK_OCCURRENCES:Ob^jB<|(); 

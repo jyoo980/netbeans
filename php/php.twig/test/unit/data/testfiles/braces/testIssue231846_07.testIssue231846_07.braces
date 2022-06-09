@@ -1,4 +1,0 @@
-{% *blo^ck* %}
-{% *endblock* %}
-{% block %}
-{% endblock %}

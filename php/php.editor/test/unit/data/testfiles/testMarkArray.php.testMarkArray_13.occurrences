@@ -1,2 +1,0 @@
-    $|>MARK_OCCURRENCES:instan^ce_array2<| = array('', 'thousand ', 'million ', 'billion ');
-    $|>MARK_OCCURRENCES:instance_array2<|[$idx2];

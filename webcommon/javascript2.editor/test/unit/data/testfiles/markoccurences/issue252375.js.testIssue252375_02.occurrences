@@ -1,3 +1,0 @@
-        this.|>MARK_OCCURRENCES:xx^x<| = xxx;    // <- here is the second xxx marked as global
-console.log(MyOb.|>MARK_OCCURRENCES:xxx<|);
-console.log(MyOb.|>MARK_OCCURRENCES:xxx<|);

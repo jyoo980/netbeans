@@ -1,3 +1,0 @@
-const baseUrlHint = `${paths.api}/${paths.foo}`
-                                              -
-HINT:Expected semicolon ; after "`".

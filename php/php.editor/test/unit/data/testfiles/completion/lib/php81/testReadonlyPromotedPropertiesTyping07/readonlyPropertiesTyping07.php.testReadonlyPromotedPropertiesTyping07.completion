@@ -1,6 +1,0 @@
-Code completion result for source line:
-read|//test
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)
-CLASS      ReadonlyProperties              [PUBLIC]   readonlyPropertiesTyping07.php
-------------------------------------
-KEYWORD    readonly                                   null

@@ -1,6 +1,0 @@
-Code completion result for source line:
-window.h|istory.state;
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)
-------------------------------------
-METHOD     hasOwnProperty(prop: String):   [PUBLIC]   JS Platform
-FIELD      history: History                [PUBLIC]   JS Platform

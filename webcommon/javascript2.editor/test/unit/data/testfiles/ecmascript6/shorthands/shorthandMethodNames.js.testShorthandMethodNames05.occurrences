@@ -1,2 +1,0 @@
-    set property(|>MARK_OCCURRENCES:value<|) {
-        property = |>MARK_OCCURRENCES:val^ue<|;  // global property

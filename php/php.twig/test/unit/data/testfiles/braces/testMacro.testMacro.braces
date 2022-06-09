@@ -1,5 +1,0 @@
-<html>
-{% *mac^ro* %}
-text
-{% *endmacro* %}
-</html>

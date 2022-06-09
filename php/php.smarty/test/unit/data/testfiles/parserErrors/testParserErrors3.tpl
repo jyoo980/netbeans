@@ -1,4 +1,0 @@
-{if}
-    {capture}
-{/if}
-    {/capture}

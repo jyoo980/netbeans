@@ -1,8 +1,0 @@
-@namespace test "test";
-element{}
-.root{}
-#foo{}
-#foobar{}
-.bar .root{}
-#ba{}
-.rest{}

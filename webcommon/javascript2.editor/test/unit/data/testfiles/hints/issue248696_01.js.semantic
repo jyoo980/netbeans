@@ -1,3 +1,0 @@
-|>GLOBAL:test<|.controller(function (|>UNUSED:Profile<|) {
-    (function |>METHOD,UNUSED:initAuth<|() { })();
-}).factory();

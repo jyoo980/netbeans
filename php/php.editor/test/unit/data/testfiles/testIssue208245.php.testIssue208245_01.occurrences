@@ -1,3 +1,0 @@
-$|>MARK_OCCURRENCES:glob^Var<| = "";
-function() use($|>MARK_OCCURRENCES:globVar<|) {
-    echo $|>MARK_OCCURRENCES:globVar<|;

@@ -1,2 +1,0 @@
-    var $|>MARK_OCCURRENCES:name<|;
-        $this->|>MARK_OCCURRENCES:na^me<| = $name;

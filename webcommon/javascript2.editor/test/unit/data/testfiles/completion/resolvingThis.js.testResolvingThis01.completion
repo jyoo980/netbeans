@@ -1,6 +1,0 @@
-Code completion result for source line:
-me.|fnc1();
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)
-------------------------------------
-METHOD     fnc1(): undefined               [PUBLIC]   resolvingThis.js
-METHOD     fnc2(): undefined               [PUBLIC]   resolvingThis.js

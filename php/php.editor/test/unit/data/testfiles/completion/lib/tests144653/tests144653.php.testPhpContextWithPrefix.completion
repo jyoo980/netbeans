@@ -1,5 +1,0 @@
-Code completion result for source line:
-Mine::$|_status;
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)
-VARIABLE   ? $_private_status              [PRIVATE,  Mine
-VARIABLE   ? $_status                      [PROTECTE  Mine

@@ -1,4 +1,0 @@
-        const |>MARK_OCCURRENCES:OMG<| = 1;
-            parent::|>MARK_OCCURRENCES:OMG<|;
-            self::|>MARK_OCCURRENCES:OMG<|;
-            static::|>MARK_OCCURRENCES:O^MG<|;

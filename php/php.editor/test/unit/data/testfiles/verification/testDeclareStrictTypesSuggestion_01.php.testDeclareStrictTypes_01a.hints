@@ -1,4 +1,0 @@
-^<?php
------
-HINT:You can declare strict types
-FIX:Add declare(strict_types=1)

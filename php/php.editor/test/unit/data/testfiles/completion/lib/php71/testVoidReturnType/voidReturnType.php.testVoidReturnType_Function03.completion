@@ -1,3 +1,0 @@
-Code completion result for source line:
-function invalidInParameter(v|oid $void): void { // func
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)

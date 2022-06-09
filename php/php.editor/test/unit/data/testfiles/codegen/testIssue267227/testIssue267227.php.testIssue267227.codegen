@@ -1,6 +1,0 @@
-public function __construct($myParam = ConstInterface::MyConstant){
-parent::__construct($myParam);
-}
-public function myMethod($myParam = ConstInterface::MyConstant){
-parent::myMethod($myParam);
-}

@@ -1,3 +1,0 @@
-        static function |>MARK_OCCURRENCES:b^ar<|() {}
-            ClassName::|>MARK_OCCURRENCES:bar<|();
-            \Foo\Bar\ClassName::|>MARK_OCCURRENCES:bar<|();

@@ -1,4 +1,0 @@
-Code completion result for source line:
-{% filter cap| %}
-(QueryType=COMPLETION, prefixSearch=true, caseSensitive=true)
-RULE       capitalize                                 Filter

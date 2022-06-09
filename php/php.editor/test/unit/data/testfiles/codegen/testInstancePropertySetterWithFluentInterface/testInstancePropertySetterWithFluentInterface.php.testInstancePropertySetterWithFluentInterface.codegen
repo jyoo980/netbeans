@@ -1,5 +1,0 @@
-public  function setFoo($$foo) {
-$$this->foo = $foo;
-return $$this;
-}
-

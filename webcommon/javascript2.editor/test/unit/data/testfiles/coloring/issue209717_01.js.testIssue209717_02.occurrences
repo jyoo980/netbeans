@@ -1,2 +1,0 @@
-function test(foo, |>MARK_OCCURRENCES:bar<|){
-          foobar = (typeof foo == "undefined") ? |>MARK_OCCURRENCES:b^ar<| : foo;

@@ -1,1 +1,0 @@
-encodeURIComponent(specification.simpleName);

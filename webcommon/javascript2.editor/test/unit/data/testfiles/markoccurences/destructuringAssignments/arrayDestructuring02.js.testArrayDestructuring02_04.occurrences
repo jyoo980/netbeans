@@ -1,2 +1,0 @@
-var |>MARK_OCCURRENCES:foo<| = ["one", "two", "three"];
-var [one, two, three] = |>MARK_OCCURRENCES:fo^o<|;

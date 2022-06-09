@@ -1,2 +1,0 @@
-|>GLOBAL:result<|["|>FIELD:service_capacity<|"];
-|>GLOBAL:console<|.log(|>GLOBAL:result<|);     

@@ -1,2 +1,0 @@
-    use Full\Name\Space\FirstParent as |>MARK_OCCURRENCES:Second^Parent<|;
-    class Yours extends |>MARK_OCCURRENCES:SecondParent<| {

@@ -1,2 +1,0 @@
-    |>MARK_OCCURRENCES:x<|: '',
-        this.|>MARK_OCCURRENCES:x^<| = x; // wrong hint: The global variable 'x' is not declared

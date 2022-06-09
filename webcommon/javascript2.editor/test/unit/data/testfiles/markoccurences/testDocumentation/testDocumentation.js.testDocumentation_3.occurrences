@@ -1,3 +1,0 @@
- * @type |>MARK_OCCURRENCES:Ca^r<|
-function |>MARK_OCCURRENCES:Car<| (color, maker) {
-var object = new |>MARK_OCCURRENCES:Car<|("red", "Skoda");
