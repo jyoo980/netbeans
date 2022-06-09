@@ -91,7 +91,7 @@ public class DocumentFinder
                     pattern =  (matchCase) ? Pattern.compile(text, Pattern.MULTILINE) : Pattern.compile(text, Pattern.MULTILINE | Pattern.CASE_INSENSITIVE); // NOI18N
                     PatternCache.putPattern(text, matchCase, pattern);
                 }
-            }catch(PatternSyntaxException pse){
+            } catch(PatternSyntaxException pse){
                 PatternCache.putPattern(text, matchCase, null);
                 throw pse;
             }

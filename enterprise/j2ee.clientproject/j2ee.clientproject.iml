@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="projectapi" />
+    <orderEntry type="module" module-name="java.platform.ui" />
+    <orderEntry type="module" module-name="perf1" />
+    <orderEntry type="module" module-name="openide.modules" />
+    <orderEntry type="module" module-name="openide.filesystems.compat8" />
+    <orderEntry type="module" module-name="unit86" />
+    <orderEntry type="module" module-name="openide.loaders" />
+    <orderEntry type="module" module-name="java.api.common" />
+    <orderEntry type="module" module-name="unit72" />
+    <orderEntry type="module" module-name="project.libraries.ui" />
+    <orderEntry type="module" module-name="java.source.base" />
+    <orderEntry type="module" module-name="j2ee.dd.webservice" />
+    <orderEntry type="module" module-name="test92" />
+    <orderEntry type="module" module-name="openide.util" />
+    <orderEntry type="module" module-name="openide.nodes" />
+    <orderEntry type="module" module-name="test309" />
+    <orderEntry type="module" module-name="openide.dialogs" />
+    <orderEntry type="module" module-name="test113" />
+    <orderEntry type="module" module-name="test231" />
+    <orderEntry type="module" module-name="java.platform" />
+    <orderEntry type="module" module-name="test272" />
+    <orderEntry type="module" module-name="test319" />
+    <orderEntry type="module" module-name="unit44" />
+    <orderEntry type="module" module-name="test95" />
+    <orderEntry type="module" module-name="test207" />
+    <orderEntry type="module" module-name="java.project" />
+    <orderEntry type="module" module-name="api.annotations.common" />
+    <orderEntry type="module" module-name="queries" />
+    <orderEntry type="module" module-name="javaee.injection" />
+    <orderEntry type="module" module-name="openide.util.ui" />
+    <orderEntry type="module" module-name="o.apache.tools.ant.module" />
+    <orderEntry type="module" module-name="j2eeserver" />
+    <orderEntry type="module" module-name="api.java.classpath" />
+    <orderEntry type="module" module-name="project.libraries" />
+    <orderEntry type="module" module-name="openide.compat" />
+    <orderEntry type="module" module-name="test244" />
+    <orderEntry type="module" module-name="javaee.project" />
+    <orderEntry type="module" module-name="openide.awt" />
+    <orderEntry type="module" module-name="test249" />
+    <orderEntry type="module" module-name="test21" />
+    <orderEntry type="module" module-name="test245" />
+    <orderEntry type="module" module-name="test111" />
+    <orderEntry type="module" module-name="test165" />
+    <orderEntry type="module" module-name="test76" />
+    <orderEntry type="module" module-name="test282" />
+    <orderEntry type="module" module-name="test42" />
+    <orderEntry type="module" module-name="j2ee.core.utilities" />
+    <orderEntry type="module" module-name="projectuiapi" />
+    <orderEntry type="module" module-name="j2ee.api.ejbmodule" />
+    <orderEntry type="module" module-name="test219" />
+    <orderEntry type="module" module-name="test283" />
+    <orderEntry type="module" module-name="test178" />
+    <orderEntry type="module" module-name="api.java" />
+    <orderEntry type="module" module-name="test374" />
+    <orderEntry type="module" module-name="unit66" />
+    <orderEntry type="module" module-name="o.n.swing.tabcontrol" />
+    <orderEntry type="module" module-name="test22" />
+    <orderEntry type="module" module-name="api.debugger.jpda" />
+    <orderEntry type="module" module-name="java.source" />
+    <orderEntry type="module" module-name="websvc.jaxwsmodel" />
+    <orderEntry type="module" module-name="test85" />
+    <orderEntry type="module" module-name="openide.filesystems.nb" />
+    <orderEntry type="module" module-name="test162" />
+    <orderEntry type="module" module-name="test232" />
+    <orderEntry type="module" module-name="projectuiapi.base" />
+    <orderEntry type="module" module-name="unit" />
+    <orderEntry type="module" module-name="java.project.ui" />
+    <orderEntry type="module" module-name="api.debugger" />
+    <orderEntry type="module" module-name="api.progress.nb" />
+    <orderEntry type="module" module-name="j2ee.persistenceapi" />
+    <orderEntry type="module" module-name="test70" />
+    <orderEntry type="module" module-name="test320" />
+    <orderEntry type="module" module-name="j2ee.dd" />
+    <orderEntry type="module" module-name="api.progress" />
+    <orderEntry type="module" module-name="test361" />
+    <orderEntry type="module" module-name="project.ant.ui" />
+    <orderEntry type="module" module-name="test2" />
+    <orderEntry type="module" module-name="test84" />
+    <orderEntry type="module" module-name="openide.util.lookup" />
+    <orderEntry type="module" module-name="unit29" />
+    <orderEntry type="module" module-name="unit51" />
+    <orderEntry type="module" module-name="project.ant.compat8" />
+    <orderEntry type="module" module-name="test9" />
+    <orderEntry type="module" module-name="project.ant" />
+    <orderEntry type="module" module-name="websvc.clientapi" />
+    <orderEntry type="module" module-name="j2ee.metadata" />
+    <orderEntry type="module" module-name="test37" />
+    <orderEntry type="module" module-name="j2ee.core" />
+    <orderEntry type="module" module-name="test15" />
+    <orderEntry type="module" module-name="test154" />
+    <orderEntry type="module" module-name="openide.filesystems" />
+    <orderEntry type="module" module-name="test337" />
+    <orderEntry type="module" module-name="j2ee.common" />
+  </component>
+</module>

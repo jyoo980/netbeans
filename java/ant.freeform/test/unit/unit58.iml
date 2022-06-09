@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="projectuiapi" />
+    <orderEntry type="module" module-name="projectapi" />
+    <orderEntry type="module" module-name="perf1" />
+    <orderEntry type="module" module-name="openide.modules" />
+    <orderEntry type="module" module-name="openide.filesystems.compat8" />
+    <orderEntry type="module" module-name="openide.loaders" />
+    <orderEntry type="module" module-name="test92" />
+    <orderEntry type="module" module-name="test374" />
+    <orderEntry type="module" module-name="openide.util" />
+    <orderEntry type="module" module-name="o.n.swing.tabcontrol" />
+    <orderEntry type="module" module-name="test85" />
+    <orderEntry type="module" module-name="openide.nodes" />
+    <orderEntry type="module" module-name="openide.filesystems.nb" />
+    <orderEntry type="module" module-name="test162" />
+    <orderEntry type="module" module-name="projectuiapi.base" />
+    <orderEntry type="module" module-name="test272" />
+    <orderEntry type="module" module-name="nbjunit" />
+    <orderEntry type="module" module-name="test95" />
+    <orderEntry type="module" module-name="queries" />
+    <orderEntry type="module" module-name="openide.util.ui" />
+    <orderEntry type="module" module-name="project.ant.ui" />
+    <orderEntry type="module" module-name="openide.compat" />
+    <orderEntry type="module" module-name="test2" />
+    <orderEntry type="module" module-name="test84" />
+    <orderEntry type="module" module-name="openide.util.lookup" />
+    <orderEntry type="module" module-name="project.ant.compat8" />
+    <orderEntry type="module" module-name="test9" />
+    <orderEntry type="module" module-name="test21" />
+    <orderEntry type="module" module-name="project.ant" />
+    <orderEntry type="module" module-name="test245" />
+    <orderEntry type="module" module-name="test165" />
+    <orderEntry type="module" module-name="test37" />
+    <orderEntry type="module" module-name="test267" />
+    <orderEntry type="module" module-name="test154" />
+    <orderEntry type="module" module-name="openide.filesystems" />
+    <orderEntry type="module" module-name="test337" />
+  </component>
+</module>

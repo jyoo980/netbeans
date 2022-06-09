@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/jars/activate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jars/depends-on-simple-module" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jars/register" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jars/simple-module" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jars/uses-swing" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="fragment-module-missing-token" />
+    <orderEntry type="module" module-name="test165" />
+    <orderEntry type="module" module-name="lookup" />
+    <orderEntry type="module" module-name="jars" />
+    <orderEntry type="module" module-name="simplewithlicense" />
+    <orderEntry type="module" module-name="jars1" />
+    <orderEntry type="module" module-name="extsrcroot" />
+  </component>
+</module>

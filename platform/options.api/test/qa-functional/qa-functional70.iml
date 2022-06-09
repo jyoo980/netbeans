@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="jellytools.ide" />
+    <orderEntry type="module" module-name="jellytools.java" />
+    <orderEntry type="module" module-name="jellytools.platform" />
+    <orderEntry type="module" module-name="qa-functional47" />
+    <orderEntry type="module" module-name="jellytools.enterprise" />
+    <orderEntry type="module" module-name="qa-functional36" />
+    <orderEntry type="module" module-name="test267" />
+    <orderEntry type="module" module-name="nbjunit" />
+    <orderEntry type="module" module-name="qa-functional58" />
+    <orderEntry type="module" module-name="qa-functional57" />
+  </component>
+</module>

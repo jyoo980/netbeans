@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/unit/data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unit/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="test91" />
+    <orderEntry type="module" module-name="perf1" />
+    <orderEntry type="module" module-name="openide.modules" />
+    <orderEntry type="module" module-name="test220" />
+    <orderEntry type="module" module-name="openide.filesystems.compat8" />
+    <orderEntry type="module" module-name="openide.loaders" />
+    <orderEntry type="module" module-name="java.source.base" />
+    <orderEntry type="module" module-name="unit39" />
+    <orderEntry type="module" module-name="test92" />
+    <orderEntry type="module" module-name="openide.util" />
+    <orderEntry type="module" module-name="openide.nodes" />
+    <orderEntry type="module" module-name="unit35" />
+    <orderEntry type="module" module-name="unit96" />
+    <orderEntry type="module" module-name="javafx2.editor" />
+    <orderEntry type="module" module-name="openide.dialogs" />
+    <orderEntry type="module" module-name="test231" />
+    <orderEntry type="module" module-name="test272" />
+    <orderEntry type="module" module-name="test199" />
+    <orderEntry type="module" module-name="lexer" />
+    <orderEntry type="module" module-name="openide.util.ui" />
+    <orderEntry type="module" module-name="parsing.indexing" />
+    <orderEntry type="module" module-name="api.java.classpath" />
+    <orderEntry type="module" module-name="perf" />
+    <orderEntry type="module" module-name="openide.compat" />
+    <orderEntry type="module" module-name="parsing.api" />
+    <orderEntry type="module" module-name="test129" />
+    <orderEntry type="module" module-name="test21" />
+    <orderEntry type="module" module-name="test165" />
+    <orderEntry type="module" module-name="java.hints.test" />
+    <orderEntry type="module" module-name="qa-functional6" />
+    <orderEntry type="module" module-name="test267" />
+    <orderEntry type="module" module-name="xml.text.obsolete90" />
+    <orderEntry type="module" module-name="test76" />
+    <orderEntry type="module" module-name="test98" />
+    <orderEntry type="module" module-name="editor.completion" />
+    <orderEntry type="module" module-name="unit57" />
+    <orderEntry type="module" module-name="unit73" />
+    <orderEntry type="module" module-name="api.java" />
+    <orderEntry type="module" module-name="test374" />
+    <orderEntry type="module" module-name="o.n.swing.tabcontrol" />
+    <orderEntry type="module" module-name="test22" />
+    <orderEntry type="module" module-name="java.source" />
+    <orderEntry type="module" module-name="unit60" />
+    <orderEntry type="module" module-name="test85" />
+    <orderEntry type="module" module-name="openide.filesystems.nb" />
+    <orderEntry type="module" module-name="java.editor" />
+    <orderEntry type="module" module-name="test162" />
+    <orderEntry type="module" module-name="test317" />
+    <orderEntry type="module" module-name="o.n.core" />
+    <orderEntry type="module" module-name="nbjunit" />
+    <orderEntry type="module" module-name="editor.mimelookup" />
+    <orderEntry type="module" module-name="css.lib" />
+    <orderEntry type="module" module-name="test230" />
+    <orderEntry type="module" module-name="o.n.bootstrap" />
+    <orderEntry type="module" module-name="xml.lexer" />
+    <orderEntry type="module" module-name="test238" />
+    <orderEntry type="module" module-name="test361" />
+    <orderEntry type="module" module-name="test2" />
+    <orderEntry type="module" module-name="openide.util.lookup" />
+    <orderEntry type="module" module-name="unit29" />
+    <orderEntry type="module" module-name="unit51" />
+    <orderEntry type="module" module-name="unit10" />
+    <orderEntry type="module" module-name="test254" />
+    <orderEntry type="module" module-name="test37" />
+    <orderEntry type="module" module-name="core.startup" />
+    <orderEntry type="module" module-name="xml.text" />
+    <orderEntry type="module" module-name="test354" />
+    <orderEntry type="module" module-name="test313" />
+    <orderEntry type="module" module-name="openide.text" />
+    <orderEntry type="module" module-name="test150" />
+    <orderEntry type="module" module-name="openide.filesystems" />
+  </component>
+</module>

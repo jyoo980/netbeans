@@ -92,7 +92,7 @@ public final class EditorFindSupport {
     */
     public static final String FIND_WHAT = "find-what"; // NOI18N
     public static final String FIND_REPLACE_WITH = "find-replace-with"; // NOI18N
-    public static final String FIND_HIGHLIGHT_SEARCH = "find-highlight-search"; // NOI18N
+//    public static final String FIND_HIGHLIGHT_SEARCH = "find-highlight-search"; // NOI18N
     public static final String FIND_INC_SEARCH = "find-inc-search"; // NOI18N
     public static final String FIND_INC_SEARCH_DELAY = "find-inc-search-delay"; // NOI18N
     public static final String FIND_BACKWARD_SEARCH = "find-backward-search"; // NOI18N
